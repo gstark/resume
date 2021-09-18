@@ -28,7 +28,7 @@ export function App() {
       <div className="mx-6 xl:mx-64 mb-20">
         <section className="grid grid-cols-12 border-b-4 sticky top-0 pt-8 pb-2 bg-gray-50 z-10">
           <p className="col-span-12 md:col-span-10 text-3xl">Gavin Stark</p>
-          <div className="col-span-12 md:col-span-2 leading-snug">
+          <div className="col-span-12 md:col-span-2 leading-snug md:text-right">
             <p>
               <a href="tel:727-560-3116">(727) 560-3116</a>
             </p>
