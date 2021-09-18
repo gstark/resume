@@ -4,10 +4,15 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && eslint --ext .tsx,.ts . && vite build",
+    "postbuild": "react-snap && prettier --print-width 99999 --write dist/index.html",
     "serve": "vite preview",
     "start": "vite",
     "predeploy": "npm run build",
     "deploy": "netlify deploy --prod --dir=dist"
+  },
+  "reactSnap": {
+    "source": "dist",
+    "removeScriptTags": true
   },
   "prettier": {
     "trailingComma": "es5",
@@ -36,7 +41,8 @@
     "eslint-plugin-react": "^7.25.1",
     "eslint-plugin-react-hooks": "^4.2.0",
     "postcss": "^8.3.6",
-    "prettier": "^2.3.2",
+    "prettier": "^2.4.1",
+    "react-snap": "^1.23.0",
     "sass": "^1.39.0",
     "tailwindcss": "^2.2.15",
     "typescript": "^4.4.2",
