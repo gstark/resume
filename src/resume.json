@@ -207,7 +207,7 @@
   "opensource": [
     {
       "packageName": "ruby",
-      "description": "Rubygems - added the initial implementation of “did you mean” for misspelled gems during “gem install”"
+      "description": "Rubygems - added the initial implementation of “did you mean” for misspelled gems during install"
     },
     {
       "packageName": "rake",
