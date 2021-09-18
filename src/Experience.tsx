@@ -15,6 +15,7 @@ export function Experience({
   endDate,
   location,
   description,
+  skills,
 }: {
   showTitle?: boolean
   companyName: string
@@ -23,16 +24,22 @@ export function Experience({
   endDate: string
   location: string
   description: string
+  skills?: string[]
 }) {
   return (
     <section className="grid grid-cols-12 my-5">
-      <p
-        className={cx('font-bold tracking-widest', sectionTitleClassNames, {
+      <div
+        className={cx('tracking-widest', sectionTitleClassNames, {
           [sectionTitleBorderClassNames]: showTitle,
         })}
       >
-        {showTitle ? 'Experience' : null}
-      </p>
+        {showTitle ? <span className="font-bold">Experience</span> : null}
+        <div className="print:hidden h-full flex items-center">
+          <span className="text-xs opacity-60 mx-1">
+            {skills ? skills.map((skill) => `${skill}. `) : null}
+          </span>
+        </div>
+      </div>
       <article
         className={cx(sectionBodyClassNames, {
           [sectionBodyBorderClassNames]: showTitle,

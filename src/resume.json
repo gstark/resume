@@ -6,7 +6,19 @@
       "startDate": "August 2018",
       "endDate": "Present",
       "location": "Saint Petersburg, Florida",
-      "description": "Responsible for developing and delivering curriculum including Ruby, C#, Entity Framework, ASP.NET, HTML, CSS, Responsive Web, JavaScript, TypeScript, React, Algorithmic Thinking, and Deployment.  Taught and helped place more than 150 students in an accelerated three-month program."
+      "description": "Responsible for developing and delivering curriculum including Ruby, C#, Entity Framework, ASP.NET, HTML, CSS, Responsive Web, JavaScript, TypeScript, React, Algorithmic Thinking, and Deployment.  Taught and helped place more than 150 students in an accelerated three-month program.",
+      "skills": [
+        "TypeScript",
+        "JavaScript",
+        "Ruby",
+        "Ruby On Rails",
+        "Heroku",
+        "C#",
+        "HTML",
+        "CSS",
+        "React",
+        "PostgreSQL"
+      ]
     },
     {
       "companyName": "STRATACACHE",
@@ -14,7 +26,18 @@
       "startDate": "August 2017",
       "endDate": "Present",
       "location": "Saint Petersburg, Florida",
-      "description": "(Real Digital Media purchased by STRATACACHE) Sole developer on the re-implementation of the NEOCAST digital signage management software. Built as a JSON-API back-end in Rails and a front-end in over 30,000 lines of TypeScript and React. Also built automation software for deploying and scaling AWS resources to host the Docker-based application."
+      "description": "(Real Digital Media purchased by STRATACACHE) Sole developer on the re-implementation of the NEOCAST digital signage management software. Built as a JSON-API back-end in Rails and a front-end in over 30,000 lines of TypeScript and React. Also built automation software for deploying and scaling AWS resources to host the Docker-based application.",
+      "skills": [
+        "Ruby",
+        "Ruby On Rails",
+        "HTML",
+        "CSS",
+        "TypeScript",
+        "JavaScript",
+        "React",
+        "MySQL",
+        "Linux"
+      ]
     },
     {
       "companyName": "The Iron Yard",
@@ -22,7 +45,17 @@
       "startDate": "July 2015",
       "endDate": "July 2017",
       "location": "Saint Petersburg, Florida",
-      "description": "Software boot camp instructor teaching Ruby, Rails, HTML, CSS, JavaScript, React, Node, Express, Algorithmic Thinking, and Deployment to more than 80 students in an accelerated three-month program. Part of a team serving one of the largest campuses."
+      "description": "Software boot camp instructor teaching Ruby, Rails, HTML, CSS, JavaScript, React, Node, Express, Algorithmic Thinking, and Deployment to more than 80 students in an accelerated three-month program. Part of a team serving one of the largest campuses.",
+      "skills": [
+        "JavaScript",
+        "Ruby",
+        "Ruby On Rails",
+        "Heroku",
+        "HTML",
+        "CSS",
+        "React",
+        "PostgreSQL"
+      ]
     },
     {
       "companyName": "Real Digital Media",
@@ -30,7 +63,18 @@
       "startDate": "Jan 2005",
       "endDate": "Jul 2015",
       "location": "Saint Petersburg, Florida",
-      "description": "Managed a team developing Rails applications to provide a remote management web application to operate our customer's digital signage networks. Also developed Linux and Android software and custom Linux distributions to run on embedded and PC platforms for digital signage.  Build software in C/C++/Java to download, manage, and play customer media on Linux-based devices. Created our own Ubuntu-based operating system designed to boot from a single filesystem-in-a-file allowing for secure and reliable remote upgrades of thousands of remote devices. During a ten-year tenure oversaw the migration from custom system-on-chip to off-the-shelf hardware including migrations from 32 to 64 bit operating systems and software.  "
+      "description": "Managed a team developing Rails applications to provide a remote management web application to operate our customer's digital signage networks. Also developed Linux and Android software and custom Linux distributions to run on embedded and PC platforms for digital signage.  Build software in C/C++/Java to download, manage, and play customer media on Linux-based devices. Created our own Ubuntu-based operating system designed to boot from a single filesystem-in-a-file allowing for secure and reliable remote upgrades of thousands of remote devices. During a ten-year tenure oversaw the migration from custom system-on-chip to off-the-shelf hardware including migrations from 32 to 64 bit operating systems and software.  ",
+      "skills": [
+        "Ruby",
+        "Ruby On Rails",
+        "HTML",
+        "CSS",
+        "TypeScript",
+        "JavaScript",
+        "React",
+        "MySQL",
+        "Linux"
+      ]
     },
     {
       "companyName": "Honeywell Space Systems",
@@ -38,7 +82,8 @@
       "startDate": "Mar 2002",
       "endDate": "Jan 2005",
       "location": "Clearwater, Florida",
-      "description": " Senior Software Engineer working on the Ballistic Missile Range Safety Technology program. Led team building, testing, and certifying Flight Category 2 (one level below the safety category for human space flight) software in C++ to track rockets, download telemetry, convert real-time data, and plot the Instantaneous Impact Point of flight vehicles. This system provided a 3D view of the projected impact point of a launched rocket allowing a safety office to make a decision to destroy the vehicle if it encroached on populated areas.  "
+      "description": " Senior Software Engineer working on the Ballistic Missile Range Safety Technology program. Led team building, testing, and certifying Flight Category 2 (one level below the safety category for human space flight) software in C++ to track rockets, download telemetry, convert real-time data, and plot the Instantaneous Impact Point of flight vehicles. This system provided a 3D view of the projected impact point of a launched rocket allowing a safety office to make a decision to destroy the vehicle if it encroached on populated areas.  ",
+      "skills": ["C", "C++", "Windows"]
     },
     {
       "companyName": "Teltronics",
@@ -46,7 +91,8 @@
       "startDate": "Feb 2000",
       "endDate": "Mar 2002",
       "location": "Sarasota, Florida",
-      "description": "Senior Software Engineer working on the SEBea system for managing PBX phone systems. Developed Microsoft Windows-based client software in C++, created and executed system tests, supported embedded software development team.  "
+      "description": "Senior Software Engineer working on the SEBea system for managing PBX phone systems. Developed Microsoft Windows-based client software in C++, created and executed system tests, supported embedded software development team.  ",
+      "skills": ["C", "C++", "Windows"]
     },
     {
       "companyName": "Epsilon Squared Software",
@@ -54,7 +100,8 @@
       "startDate": "Jan 1999",
       "endDate": "Feb 2000",
       "location": "St Petersburg, Florida",
-      "description": " Built, marketed, and sold the products “InstallRite” and “InstallWatch” software for documenting and automating the deployment of software on Microsoft Windows networks.  "
+      "description": " Built, marketed, and sold the products “InstallRite” and “InstallWatch” software for documenting and automating the deployment of software on Microsoft Windows networks.  ",
+      "skills": ["C", "C++", "Windows"]
     },
     {
       "companyName": "CFT Consulting",
@@ -62,7 +109,8 @@
       "startDate": "Jul 1995",
       "endDate": "Jan 1999",
       "location": "Sarasota, Florida",
-      "description": " Software consultant primarily in the Retail Systems field. Created and managed the RFP process for large POS and Merchandising system selections. Managed and wrote supporting software systems for nationwide system deployments and migrations including POS, inventory management, warehouse management, and accounting for companies such as GAP, Egghead, Totes, Adidas, and more."
+      "description": " Software consultant primarily in the Retail Systems field. Created and managed the RFP process for large POS and Merchandising system selections. Managed and wrote supporting software systems for nationwide system deployments and migrations including POS, inventory management, warehouse management, and accounting for companies such as GAP, Egghead, Totes, Adidas, and more.",
+      "skills": ["C", "C++", "Windows"]
     }
   ],
   "skills": [
@@ -82,10 +130,10 @@
     { "tech": "React", "years": 4 },
     { "tech": "Heroku", "years": 6 },
     { "tech": "Nginx", "years": 11 },
-    { "tech": "Ubuntu", "years": 12 },
     { "tech": "VMWare", "years": 9 },
     { "tech": "MySQL", "years": 15 },
-    { "tech": "PostgreSQL", "years": 6 }
+    { "tech": "PostgreSQL", "years": 6 },
+    { "tech": "Windows", "years": 8 }
   ],
   "community": [
     {
