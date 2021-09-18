@@ -34,7 +34,7 @@
       "description": "(Real Digital Media purchased by STRATACACHE) Sole developer on the re-implementation of the NEOCAST digital signage management software. Built as a JSON-API back-end in Rails and a front-end in over 30,000 lines of TypeScript and React. Also built automation software for deploying and scaling AWS resources to host the Docker-based application.",
       "descriptions": [
         "(Real Digital Media purchased by STRATACACHE)",
-        "Sole developer on the re-implementation of the NEOCAST digital signage management software. Built as a JSON-API back-end in Rails and a front-end in over 30,000 lines of TypeScript and React.",
+        "Sole developer on the re-implementation of the NEOCAST digital signage management software. Built as a JSON-API back-end in Rails and a front-end in over 30,000 lines of TypeScript and React using Bootstrap.",
         "Built custom Ubuntu based OS to run on ARM-64 based embedded systems",
         "Developmed and implemented custom kernel patches for ARM-64 systems",
         "Built automation software for deploying and scaling AWS resources to host the Docker-based application.",
@@ -81,9 +81,17 @@
       "endDate": "July 2015",
       "location": "Saint Petersburg, Florida",
       "descriptions": [
-        "Managed a team developing Rails applications to provide a remote management web application to operate our customer's digital signage networks.",
+        "Managed a team developing Ruby on Rails applications to provide a remote management web application to operate our customer's digital signage networks.",
+        "Built infrastructure that processes over 5 million requests and 1 million background jobs per day",
+        "Built online report generator producing CSV, XML, JSON, and PDF reports",
+        "Designed and built interactive editor for designing multi-zone and multi-screen signage presentations",
+        "Responsible for database design including query and index optimization",
+        "Built AWS infrastructure and software deployment strategy including multi-zone redundancy",
+        "Created monitoring dashboards and alerts using Scout",
+        "Built disaster recovery policies and code including offsite content and database backups",
         "Developed Linux and Android software and custom Linux distributions to run on embedded and PC platforms for digital signage.",
         "Built software in C/C++/Java to download, manage, and play customer media on Linux-based devices.",
+        "Patched linux hardware drivers for device incompatibilities and missing features",
         "Created our own Ubuntu-based operating system designed to boot from a single filesystem-in-a-file allowing for secure and reliable remote upgrades of thousands of remote devices.",
         "During a ten-year tenure oversaw the migration from custom system-on-chip to off-the-shelf hardware including migrations from 32 to 64 bit operating systems and software."
       ],
