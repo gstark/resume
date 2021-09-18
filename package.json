@@ -11,8 +11,7 @@
     "deploy": "netlify deploy --prod --dir=dist"
   },
   "reactSnap": {
-    "source": "dist",
-    "removeScriptTags": true
+    "build": "dist"
   },
   "prettier": {
     "trailingComma": "es5",
