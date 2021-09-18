@@ -1,0 +1,152 @@
+{
+  "experience": [
+    {
+      "companyName": "Suncoast Developers Guild",
+      "jobTitle": "Senior Instructor",
+      "startDate": "August 2018",
+      "endDate": "Present",
+      "location": "Saint Petersburg, Florida",
+      "description": "Responsible for developing and delivering curriculum including Ruby, C#, Entity Framework, ASP.NET, HTML, CSS, Responsive Web, JavaScript, TypeScript, React, Algorithmic Thinking, and Deployment.  Taught and helped place more than 150 students in an accelerated three-month program."
+    },
+    {
+      "companyName": "STRATACACHE",
+      "jobTitle": "Senior Developer",
+      "startDate": "August 2017",
+      "endDate": "Present",
+      "location": "Saint Petersburg, Florida",
+      "description": "(Real Digital Media purchased by STRATACACHE) Sole developer on the re-implementation of the NEOCAST digital signage management software. Built as a JSON-API back-end in Rails and a front-end in over 30,000 lines of TypeScript and React. Also built automation software for deploying and scaling AWS resources to host the Docker-based application."
+    },
+    {
+      "companyName": "The Iron Yard",
+      "jobTitle": "Instructor",
+      "startDate": "July 2015",
+      "endDate": "July 2017",
+      "location": "Saint Petersburg, Florida",
+      "description": "Software boot camp instructor teaching Ruby, Rails, HTML, CSS, JavaScript, React, Node, Express, Algorithmic Thinking, and Deployment to more than 80 students in an accelerated three-month program. Part of a team serving one of the largest campuses."
+    },
+    {
+      "companyName": "Real Digital Media",
+      "jobTitle": "VP Product Development & Engineering",
+      "startDate": "Jan 2005",
+      "endDate": "Jul 2015",
+      "location": "Saint Petersburg, Florida",
+      "description": "Managed a team developing Rails applications to provide a remote management web application to operate our customer's digital signage networks. Also developed Linux and Android software and custom Linux distributions to run on embedded and PC platforms for digital signage.  Build software in C/C++/Java to download, manage, and play customer media on Linux-based devices. Created our own Ubuntu-based operating system designed to boot from a single filesystem-in-a-file allowing for secure and reliable remote upgrades of thousands of remote devices. During a ten-year tenure oversaw the migration from custom system-on-chip to off-the-shelf hardware including migrations from 32 to 64 bit operating systems and software.  "
+    },
+    {
+      "companyName": "Honeywell Space Systems",
+      "jobTitle": "Senior Engineer",
+      "startDate": "Mar 2002",
+      "endDate": "Jan 2005",
+      "location": "Clearwater, Florida",
+      "description": " Senior Software Engineer working on the Ballistic Missile Range Safety Technology program. Led team building, testing, and certifying Flight Category 2 (one level below the safety category for human space flight) software in C++ to track rockets, download telemetry, convert real-time data, and plot the Instantaneous Impact Point of flight vehicles. This system provided a 3D view of the projected impact point of a launched rocket allowing a safety office to make a decision to destroy the vehicle if it encroached on populated areas.  "
+    },
+    {
+      "companyName": "Teltronics",
+      "jobTitle": "Senior Software Engineer",
+      "startDate": "Feb 2000",
+      "endDate": "Mar 2002",
+      "location": "Sarasota, Florida",
+      "description": "Senior Software Engineer working on the SEBea system for managing PBX phone systems. Developed Microsoft Windows-based client software in C++, created and executed system tests, supported embedded software development team.  "
+    },
+    {
+      "companyName": "Epsilon Squared Software",
+      "jobTitle": "Owner",
+      "startDate": "Jan 1999",
+      "endDate": "Feb 2000",
+      "location": "St Petersburg, Florida",
+      "description": " Built, marketed, and sold the products “InstallRite” and “InstallWatch” software for documenting and automating the deployment of software on Microsoft Windows networks.  "
+    },
+    {
+      "companyName": "CFT Consulting",
+      "jobTitle": "Senior Consultant",
+      "startDate": "Jul 1995",
+      "endDate": "Jan 1999",
+      "location": "Sarasota, Florida",
+      "description": " Software consultant primarily in the Retail Systems field. Created and managed the RFP process for large POS and Merchandising system selections. Managed and wrote supporting software systems for nationwide system deployments and migrations including POS, inventory management, warehouse management, and accounting for companies such as GAP, Egghead, Totes, Adidas, and more."
+    }
+  ],
+  "skills": [
+    "Ruby",
+    "Ruby on Rails",
+    "Linux",
+    "C",
+    "C++",
+    "JavaScript",
+    "TypeScript",
+    "Java",
+    "C#",
+    "HTML",
+    "CSS",
+    "TDD",
+    "Docker",
+    "React",
+    "Heroku",
+    "Nginx",
+    "Ubuntu",
+    "VMWare",
+    "MySQL",
+    "PostgreSQL"
+  ],
+  "community": [
+    {
+      "organization": "BarCamp Tampa Bay",
+      "description": "2007 to 2017 - Founding member of BarCamp Tampa Bay"
+    },
+    {
+      "organization": "Ignite Tampa Bay",
+      "description": "2011 to 2017 - Founding member of Ignite Tampa Bay"
+    },
+    {
+      "organization": "Coder Night",
+      "description": " 2017 to 2021 - Organized a meetup designed to help developers of all skill levels, practice and receive feedback in a supportive and collaborative environment.  "
+    },
+    {
+      "organization": "Tampa Ruby Brigade",
+      "description": "2006 to Present - Organized the Tampa Ruby Brigade meetup."
+    }
+  ],
+  "eduction": [
+    {
+      "school": "University of Arizona",
+      "degree": "Masters in Management Information Systems",
+      "_years": "1992 - 1994",
+      "_location": "Tucson, AZ"
+    },
+    {
+      "school": "University of Rochester",
+      "degree": "Bachelor of Arts in Computer Science / Applied Mathematics",
+      "_years": "1988 - 1992",
+      "_location": "Rochester, NY"
+    }
+  ],
+  "opensource": [
+    {
+      "packageName": "ruby",
+      "description": "Rubygems - added the initial implementation of “did you mean” for misspelled gems during “gem install”"
+    },
+    {
+      "packageName": "rake",
+      "description": "Updated output to print the list of tasks in full width if not printing to standard output. Allows for piping to other commands such as grep"
+    },
+    {
+      "packageName": "rvm",
+      "description": "Disabled color output when the terminal is not standard out"
+    },
+    {
+      "packageName": "jruby",
+      "description": "Implemented language features and fixed issues in JDBC drivers"
+    },
+    {
+      "packageName": "honeybadger",
+      "description": "Fixed data context issues"
+    },
+    {
+      "packageName": "libva",
+      "description": "Patched memory leaks"
+    },
+    {
+      "packageName": "gstreamer",
+      "description": "Resolved memory leaks in video and audio codecs"
+    }
+  ]
+}

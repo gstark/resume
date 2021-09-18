@@ -5,6 +5,7 @@ import { EsLinter, linterPlugin } from 'vite-plugin-linter'
 
 // https://vitejs.dev/config/
 export default defineConfig((configEnv) => ({
+  base: '/new-resume/',
   plugins: [
     reactRefresh(),
     checker({
