@@ -4,6 +4,7 @@ import { Experience } from './Experience'
 import { Education } from './Education'
 import { OpenSource } from './OpenSource'
 import { Community } from './Community'
+import { AboutResume } from './AboutResume'
 import { Skills } from './Skills'
 
 export function App() {
@@ -52,9 +53,13 @@ export function App() {
           <Education key={index} showTitle={index === 0} {...education} />
         ))}
 
-        {resume.opensource.map((opensource, index) => (
-          <OpenSource key={index} showTitle={index === 0} {...opensource} />
-        ))}
+        <div className="my-5">
+          {resume.opensource.map((opensource, index) => (
+            <OpenSource key={index} showTitle={index === 0} {...opensource} />
+          ))}
+        </div>
+
+        <AboutResume />
       </div>
     </>
   )
