@@ -1,14 +1,13 @@
 import React from 'react'
 import cx from 'classnames'
 import { sectionTitleClassNames, sectionBodyClassNames } from './styleConstants'
-import { Skill } from './Skill'
 
 export function Skills({
   showTitle = false,
   skills,
 }: {
   showTitle?: boolean
-  skills: string[]
+  skills: { tech: string; years: number }[]
 }) {
   return (
     <section className="grid grid-cols-12 my-5">
@@ -16,8 +15,16 @@ export function Skills({
         {showTitle ? 'Skills' : null}
       </p>
       <article className={cx(sectionBodyClassNames)}>
-        {skills.map((skill) => (
-          <Skill key={skill} name={skill} />
+        {skills.map((skill, index) => (
+          <span key={skill.tech}>
+            {skill.tech}
+            <sub className="text-xs">
+              {' '}
+              {skill.years}
+              {index === 0 ? ' years' : null}
+            </sub>
+            .{' '}
+          </span>
         ))}
       </article>
     </section>
