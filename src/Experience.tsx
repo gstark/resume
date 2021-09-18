@@ -60,9 +60,11 @@ export function Experience({
           style={{ textIndent: '-1rem' }}
         >
           {descriptions.map((description, index) => (
-            <li key={index} className="leading-snug">
-              {description}
-            </li>
+            <li
+              key={index}
+              className="leading-snug"
+              dangerouslySetInnerHTML={{ __html: description }}
+            ></li>
           ))}
         </ul>
       </article>
