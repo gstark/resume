@@ -7,10 +7,11 @@
       "endDate": "Present",
       "location": "Saint Petersburg, Florida",
       "descriptions": [
-        "Developed curriculum for Ruby, C#, Entity Framework, ASP.NET, HTML, CSS, Responsive Web, JavaScript, TypeScript, React, Algorithmic Thinking, and Deployment. See <a class=\"underline print:no-underline\" href=\"https://handbook.suncoast.io\">https://handbook.suncoast.io</a>.",
+        "Developed curriculum for Ruby, C#, Entity Framework, ASP.NET, HTML, CSS, Responsive Web, JavaScript, TypeScript, React, Deployment, and Algorithmic Thinking. See <a class=\"underline print:no-underline\" href=\"https://handbook.suncoast.io\">https://handbook.suncoast.io</a>.",
         "Contributed to internal app generator: <a class=\"underline print:no-underline\" href=\"https://www.npmjs.com/package/app-app\">app-app</a>. Based on react-scripts, builds student starter projects.",
         "Built student management system: Nexus + Pylon, a Rails/React/TypeScript system to manage enrollment, homework assignment, grading, and student progress reports.",
-        "Taught and helped place more than 150 students in an accelerated three-month program."
+        "Taught more than 150 students in an accelerated three-month program.",
+        "Helped place students as junior developers."
       ],
       "skills": [
         "TypeScript",
@@ -32,12 +33,12 @@
       "endDate": "Present",
       "location": "Saint Petersburg, Florida",
       "descriptions": [
-        "(Real Digital Media purchased by STRATACACHE).",
-        "Sole developer on the re-implementation of the NEOCAST digital signage management software. Built as a JSON-API back-end in Rails and a front-end in over 30,000 lines of TypeScript and React using Bootstrap.",
+        "<span class=\"italic\">Real Digital Media purchased by STRATACACHE.</span>",
+        "Primary developer on the re-implementation of the NEOCAST digital signage management software. Built as a JSON-API back-end in Ruby on Rails and a front-end in over 30,000 lines of TypeScript and React using Bootstrap.",
         "Built custom Ubuntu based OS to run on ARM-64 based embedded systems.",
         "Developmed and implemented custom kernel patches for ARM-64 systems.",
-        "Built automation software for deploying and scaling AWS resources to host the Docker-based application.",
-        "Implemented consolidated application log connection and analysis."
+        "Built automation software for deploying and scaling AWS resources to host a Docker-based application.",
+        "Implemented consolidated application log collection and analysis."
       ],
       "skills": [
         "Ruby",
@@ -58,9 +59,8 @@
       "endDate": "July 2017",
       "location": "Saint Petersburg, Florida",
       "descriptions": [
-        "Software boot camp instructor teaching Ruby, Rails, HTML, CSS, JavaScript, React, Node, Express, Algorithmic Thinking, and Deployment to more than 80 students in an accelerated three-month program.",
-        "Built internal learning management software as part of an internal product development team.",
-        "Part of a team serving one of the largest campuses."
+        "Taught Ruby, Ruby on Rails, HTML, CSS, JavaScript, React, Node, Express, Algorithmic Thinking, and Deployment to more than 80 students in an accelerated three-month program.",
+        "Built internal learning management software as part of an internal product development team."
       ],
       "skills": [
         "JavaScript",
@@ -81,18 +81,18 @@
       "location": "Saint Petersburg, Florida",
       "descriptions": [
         "Managed a team developing Ruby on Rails applications to provide a remote management web application to operate our customer's digital signage networks.",
-        "Built infrastructure that processes over 5 million requests and 1 million background jobs per day.",
+        "Built infrastructure that processes over <span class=\"italic\">five million requests</span> and <span class=\"italic\">one million background jobs</span> per day.",
         "Built online report generator producing CSV, XML, JSON, and PDF reports.",
         "Designed and built interactive editor for designing multi-zone and multi-screen signage presentations.",
         "Responsible for database design including query and index optimization.",
         "Built AWS infrastructure and software deployment strategy including multi-zone redundancy.",
-        "Created monitoring dashboards and alerts using Scout",
+        "Created monitoring dashboards and alerts using Scout.",
         "Built disaster recovery policies and code including offsite content and database backups.",
-        "Developed Linux and Android software and custom Linux distributions to run on embedded and PC platforms for digital signage.",
-        "Built software in C/C++/Java to download, manage, and play customer media on Linux-based devices.",
-        "Patched linux hardware drivers for device incompatibilities and missing features.",
-        "Created our own Ubuntu-based operating system designed to boot from a single filesystem-in-a-file allowing for secure and reliable remote upgrades of thousands of remote devices.",
-        "During a ten-year tenure oversaw the migration from custom system-on-chip to off-the-shelf hardware including migrations from 32 to 64 bit operating systems and software."
+        "Developed Linux and Android software and custom Linux distributions to run on embedded and PC platforms.",
+        "Built software in C, C++, and Java to download, manage, and play customer media on Linux based devices.",
+        "Patched Linux hardware drivers for device incompatibilities and missing features.",
+        "Created our own Ubuntu based operating system designed to boot from a single squashfs root filesystem combined with an overlay filesystem allowing for secure and reliable remote upgrades of thousands of remote devices.",
+        "Oversaw the migration from custom system-on-chip to off-the-shelf hardware including migrations from 32 to 64 bit operating systems and software."
       ],
       "skills": [
         "Ruby",
@@ -113,7 +113,7 @@
       "endDate": "January 2005",
       "location": "Clearwater, Florida",
       "descriptions": [
-        "Senior architect on the Ballistic Missile Range Safety Technology program.",
+        "Served as senior software architect on the Ballistic Missile Range Safety Technology program.",
         "Led team building, testing, and certifying Flight Category 2 (one level below the safety category for human space flight) software in C++ to track rockets, download telemetry, convert real-time data, and plot the Instantaneous Impact Point of flight vehicles.",
         "Created software to provide a 3D view of the projected impact point of a launched rocket allowing a safety office to make a decision to destroy the vehicle if it encroached on populated areas.",
         "See: <a class=\"underline print:no-underline\" href=\"https://en.wikipedia.org/wiki/BMRST\">https://en.wikipedia.org/wiki/BMRST</a>"
@@ -127,8 +127,9 @@
       "endDate": "March 2002",
       "location": "Sarasota, Florida",
       "descriptions": [
-        "Senior Software Engineer working on the SEBea system for managing PBX phone systems.",
-        "Developed Microsoft Windows-based client software in C++, created and executed system tests, supported embedded software development team."
+        "Senior software engineer building C++ Windows based software for managing networks of PBX phone systems.",
+        "Contributed to embedded systems software in C, and C++",
+        "Created and executed unit, system, and acceptance tests."
       ],
       "skills": ["C", "C++", "Windows"]
     },
@@ -139,7 +140,7 @@
       "endDate": "Feb 2000",
       "location": "St Petersburg, Florida",
       "descriptions": [
-        "Built, marketed, and sold the products “InstallRite” and “InstallWatch” software for documenting and automating the deployment of software on Microsoft Windows networks."
+        "Built, marketed, and sold the products for documenting and automating the deployment of software on Microsoft Windows networks."
       ],
       "skills": ["C", "C++", "Windows"]
     },
@@ -150,9 +151,8 @@
       "endDate": "January 1999",
       "location": "Sarasota, Florida",
       "descriptions": [
-        "Consulted in the retail systems field.",
-        "Created and managed the RFP process for large POS and Merchandising system selections.",
-        "Managed and wrote supporting software systems for nationwide system deployments and migrations including POS, inventory management, warehouse management, and accounting for companies such as GAP, Egghead, Totes, and Adidas."
+        "Designed and wrote supporting software systems for nationwide system deployments and migrations including POS, inventory management, warehouse management, and accounting for companies such as GAP, Egghead, Totes, and Adidas.",
+        "Managed the RFP process for large POS and Merchandising system selections."
       ],
       "skills": ["C", "C++", "Windows"]
     }

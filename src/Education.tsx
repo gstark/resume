@@ -21,7 +21,7 @@ export function Education({
   _location: string
 }) {
   return (
-    <section className="grid grid-cols-12 my-5">
+    <section className="grid grid-cols-12 my-2">
       <p
         className={cx('font-bold tracking-widest', sectionTitleClassNames, {
           [sectionTitleBorderClassNames]: showTitle,
