@@ -14,7 +14,7 @@ export function Experience({
   startDate,
   endDate,
   location,
-  description,
+  descriptions,
   skills,
 }: {
   showTitle?: boolean
@@ -23,7 +23,7 @@ export function Experience({
   startDate: string
   endDate: string
   location: string
-  description: string
+  descriptions: string[]
   skills?: string[]
 }) {
   return (
@@ -55,7 +55,11 @@ export function Experience({
           </span>{' '}
           / <span>{location}</span>
         </p>
-        <p className="leading-snug">{description}</p>
+        {descriptions.map((description, index) => (
+          <p key={index} className="leading-snug">
+            {description}
+          </p>
+        ))}
       </article>
     </section>
   )
