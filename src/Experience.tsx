@@ -55,11 +55,16 @@ export function Experience({
           </span>{' '}
           / <span>{location}</span>
         </p>
-        {descriptions.map((description, index) => (
-          <p key={index} className="leading-snug">
-            {description}
-          </p>
-        ))}
+        <ul
+          className="list-disc list-inside pl-4"
+          style={{ textIndent: '-1rem' }}
+        >
+          {descriptions.map((description, index) => (
+            <li key={index} className="leading-snug">
+              {description}
+            </li>
+          ))}
+        </ul>
       </article>
     </section>
   )
