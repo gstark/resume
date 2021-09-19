@@ -53,7 +53,7 @@ export function Experience({
           </span>{' '}
           / <span>{location}</span>
         </p>
-        <ul className="list-disc ml-4">
+        <ul>
           {descriptions.map((description, index) => (
             <li
               key={index}

@@ -23,7 +23,7 @@ export function AboutResume() {
         <div>
           <p>This resume is created using the following technology:</p>
 
-          <ul className="list-disc ml-4">
+          <ul>
             <li>
               <span className="font-bold">React</span>
             </li>
