@@ -15,20 +15,15 @@ export function AboutResume() {
           'font-bold tracking-widest',
           sectionTitleClassNames,
           sectionTitleBorderClassNames
-        )}
-      >
+        )}>
         About
       </p>
       <article
-        className={cx(sectionBodyClassNames, sectionBodyBorderClassNames)}
-      >
+        className={cx(sectionBodyClassNames, sectionBodyBorderClassNames)}>
         <div>
           <p>This resume is created using the following technology:</p>
 
-          <ul
-            className="list-disc list-inside pl-4"
-            style={{ textIndent: '-1rem' }}
-          >
+          <ul className="list-disc ml-4">
             <li>
               <span className="font-bold">React</span>
             </li>
