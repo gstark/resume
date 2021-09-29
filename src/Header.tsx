@@ -1,5 +1,7 @@
 import React from 'react'
 import resume from './resume.json'
+import linkedin from './images/linkedin.png'
+import github from './images/github.png'
 
 export function Header({
   contact,
@@ -24,12 +26,22 @@ export function Header({
         </p>
         <p>
           <a href={`https://www.linkedin.com/in/${resume.contact.linkedin}`}>
-            Linked-In: {resume.contact.linkedin}
+            <img
+              className="inline pr-1"
+              style={{ height: '1rem' }}
+              src={linkedin}
+            />
+            {resume.contact.linkedin}
           </a>
         </p>
         <p>
           <a href={`https://github.com/${resume.contact.github}`}>
-            GitHub: {resume.contact.github}
+            <img
+              className="inline pr-1"
+              style={{ height: '1rem' }}
+              src={github}
+            />
+            {resume.contact.github}
           </a>
         </p>
       </div>
