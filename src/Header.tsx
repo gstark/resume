@@ -1,7 +1,17 @@
 import React from 'react'
 import resume from './resume.json'
 
-export function Header({ contact }) {
+export function Header({
+  contact,
+}: {
+  contact: {
+    name: string
+    phone: string
+    email: string
+    linkedin: string
+    github: string
+  }
+}) {
   return (
     <section className="grid grid-cols-12 border-b-4 sticky top-0 pt-8 pb-2 bg-gray-50 z-10">
       <p className="col-span-12 md:col-span-10 text-3xl">{contact.name}</p>
