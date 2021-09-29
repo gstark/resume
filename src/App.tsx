@@ -7,6 +7,7 @@ import { Community } from './Community'
 import { AboutResume } from './AboutResume'
 import { Skills } from './Skills'
 import { Separator } from './Separator'
+import { Header } from './Header'
 
 export function App() {
   return (
@@ -19,24 +20,14 @@ export function App() {
           xl:block xl:fixed xl:w-auto xl:top-12 xl:-right-16 xl:transform xl:rotate-45 xl:bg-gray-700 xl:text-gray-300 xl:p-2 xl:border-4 xl:border-gray-300">
         <a
           className="block w-full xl:w-60 text-sm text-center"
-          href="https://github.com/gstark"
+          href={`https://github.com/${resume.contact.github}`}
           data-ribbon="Find me on GitHub"
           title="Find me on GitHub">
           Find me on GitHub
         </a>
       </div>
       <div className="mx-6 xl:mx-64 mb-20">
-        <section className="grid grid-cols-12 border-b-4 sticky top-0 pt-8 pb-2 bg-gray-50 z-10">
-          <p className="col-span-12 md:col-span-10 text-3xl">Gavin Stark</p>
-          <div className="col-span-12 md:col-span-2 leading-snug md:text-right">
-            <p>
-              <a href="tel:727-560-3116">(727) 560-3116</a>
-            </p>
-            <p>
-              <a href="mailto:gavin@gstark.com">gavin@gstark.com</a>
-            </p>
-          </div>
-        </section>
+        <Header contact={resume.contact} />
 
         <Skills showTitle skills={resume.skills} />
 

@@ -1,4 +1,11 @@
 {
+  "contact": {
+    "name": "Gavin Stark",
+    "email": "gavin@gstark.com",
+    "phone": "727-560-3116",
+    "linkedin": "gastark",
+    "github": "gstark"
+  },
   "experience": [
     {
       "companyName": "Suncoast Developers Guild",
