@@ -18,7 +18,7 @@ export function Skills({
         {skills.map((skill, index) => (
           <span key={skill.tech}>
             {skill.tech}
-            <sub className="text-xs hidden md:inline">
+            <sub className="text-xs hidden md:inline print:inline">
               {' '}
               {skill.years}
               {index === 0 ? ' years' : null}

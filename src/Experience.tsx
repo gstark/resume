@@ -33,7 +33,7 @@ export function Experience({
           [sectionTitleBorderClassNames]: showTitle,
         })}>
         {showTitle ? <span className="font-bold">Experience</span> : null}
-        <div className="hidden print:hidden md:flex h-full items-center">
+        <div className="hidden print:flex md:flex h-full items-center">
           <span className="text-xs opacity-60 mx-1">
             {skills ? skills.map((skill) => `${skill}. `) : null}
           </span>

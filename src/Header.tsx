@@ -16,8 +16,10 @@ export function Header({
 }) {
   return (
     <section className="grid grid-cols-12 border-b-4 sticky top-0 pt-8 pb-2 bg-gray-50 z-10">
-      <p className="col-span-12 md:col-span-10 text-3xl">{contact.name}</p>
-      <div className="col-span-12 md:col-span-2 leading-snug md:text-right">
+      <p className="col-span-12 md:col-span-10 print:col-span-10 text-3xl">
+        {contact.name}
+      </p>
+      <div className="col-span-12 md:col-span-2 print:col-span-2 leading-snug md:text-right">
         <p>
           <a href="tel:727-560-3116">{resume.contact.phone}</a>
         </p>
