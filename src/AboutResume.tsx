@@ -21,7 +21,7 @@ export function AboutResume() {
       <article
         className={cx(sectionBodyClassNames, sectionBodyBorderClassNames)}>
         <div>
-          <p>This resume is created using the following technology:</p>
+          <p>My resume uses the following technologies:</p>
 
           <ul>
             <li>
