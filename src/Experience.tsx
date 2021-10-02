@@ -34,7 +34,7 @@ export function Experience({
         })}>
         {showTitle ? <span className="font-bold">Experience</span> : null}
         <div className="hidden print:hidden md:flex h-full items-center">
-          <span className="text-xs opacity-60 mx-1">
+          <span className="text-xs opacity-60 mr-16">
             {skills ? skills.map((skill) => `${skill}. `) : null}
           </span>
         </div>
