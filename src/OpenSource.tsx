@@ -17,19 +17,17 @@ export function OpenSource({
   description: string
 }) {
   return (
-    <section className="grid grid-cols-12 my-0">
+    <section className="grid grid-cols-12 my-0 print:hidden">
       <p
         className={cx('font-bold tracking-widest', sectionTitleClassNames, {
           [sectionTitleBorderClassNames]: showTitle,
-        })}
-      >
+        })}>
         {showTitle ? 'Open Source' : null}
       </p>
       <article
         className={cx(sectionBodyClassNames, {
           [sectionBodyBorderClassNames]: showTitle,
-        })}
-      >
+        })}>
         <span className="font-bold tracking-wide">{packageName}</span> -{' '}
         <span>{description}</span>
       </article>
