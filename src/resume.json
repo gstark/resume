@@ -14,11 +14,11 @@
       "endDate": "Present",
       "location": "Saint Petersburg, Florida",
       "descriptions": [
+        "Contributed to a 95% placement rate by identifying, recommending, and guiding students to secure positions as junior developers.",
+        "Contributed to internal app generator: <a class=\"underline print:no-underline\" href=\"https://www.npmjs.com/package/app-app\">app-app</a>. Based on react-scripts, builds student starter projects.",
         "Expanded market from full-time in-person classes into remote, part-time courses by developing an open-source curriculum for Ruby, C#, Entity Framework, ASP.NET, HTML, CSS, Responsive Web, JavaScript, TypeScript, React, Deployment, and Algorithmic Thinking. See <a class=\"underline print:no-underline\" href=\"https://handbook.suncoast.io\">https://handbook.suncoast.io</a>.",
         "Enabled part-time courses by producing over 400 hours of recorded lectures with detailed slides and corresponding reading and code samples.",
-        "Reduced overhead of managing required student records by building a student management system in Rails/React/TypeScript to track enrollment, homework assignments, grading, and student progress reports.",
-        "Contributed to a 95% placement rate by identifying, recommending, and guiding students to secure positions as junior developers.",
-        "Contributed to internal app generator: <a class=\"underline print:no-underline\" href=\"https://www.npmjs.com/package/app-app\">app-app</a>. Based on react-scripts, builds student starter projects."
+        "Reduced overhead of managing required student records by building a student management system in Rails/React/TypeScript to track enrollment, homework assignments, grading, and student progress reports."
       ],
       "skills": [
         "Ruby",
@@ -42,12 +42,11 @@
       "descriptions": [
         "Improved the marketability of the NEOCAST digital signage management system by re-implementing, as the primary developer, the software as a JSON-API back-end in Ruby on Rails and a front-end in over 30,000 lines of TypeScript and React using Bootstrap.",
         "Enabled new markets by creating and maintaining a custom Ubuntu-based OS that supported 32-bit Intel, 64-bit Intel, and then ARM-64 based embedded systems.",
-        "Maintained software development costs by building, deploying, and supporting a Ruby on Rails project for over 15 years. From Rails version 0.9 through Rails version 6.1",
-        "Lowered hardware platform costs by maintaining a single application architecture that ran on 32-bit Intel, 64-bit Intel, ARM-64, and Android devices.",
-        "Reduced hosting budget by building automation software for deploying and scaling AWS resources to host a Docker-based application.",
-        "Increased diagnostic capability and lowered time-to-resolution of issues by implementing consolidated application log collection and analysis.",
         "Achieved first-to-market amongst other divisions in a transition to the ARM platform by developing and implementing custom kernel patches for ARM-64 systems.",
-        "NOTE: <span class=\"italic\">STRATACACHE purchased real Digital Media.</span>"
+        "Maintained software development costs by supporting a Ruby on Rails project for over 15 years. From Rails version 0.9 through Rails version 6.1",
+        "Lowered hardware platform costs by maintaining a single application architecture for 32-bit Intel, 64-bit Intel, ARM-64, and Android devices.",
+        "Reduced hosting budget by building automation software for deploying and scaling AWS resources to host a Docker-based application.",
+        "Increased diagnostic capability and lowered issue resolution time by implementing consolidated application log collection and analysis."
       ],
       "skills": [
         "Ruby",
@@ -95,15 +94,13 @@
         "Increased application uptime and fault tolerance by building and deploying an AWS infrastructure and software deployment strategy, including multi-zone redundancy.",
         "Continually lowered operational costs by migrating infrastructure from one server in a closet through a data center transition to a scalable Amazon Web Services based architecture over the course of the application's lifetime.",
         "Improved customer support by creating monitoring dashboards and alerts to forecast and resolve issues before customers are impacted.",
-        "Ensured continuity of business function by building disaster recovery policies and code, including offsite content and database backups.",
-        "Opened new markets by adding hardware platforms by developing Linux and Android software and custom Linux distributions to run on embedded and PC platforms.",
-        "Increased platform reliability and device uptime by creating a custom Ubuntu-based operating system designed to boot from a single squashfs root filesystem combined with an overlay filesystem allowing for secure and reliable remote upgrades of thousands of remote devices.",
+        "Ensured continuity of business functions by building disaster recovery policies and code, including offsite content and database backups.",
+        "Opened new hardware markets by developing Linux and Android software and custom Linux distributions to run on embedded and PC platforms.",
+        "Increased platform reliability and device uptime of thousands of remote devices by creating a custom Ubuntu-based operating system designed to boot from a single squashfs root filesystem combined with an overlay filesystem allowing for secure and reliable remote upgrades.",
         "Increased the number of hardware platforms supported by patching Linux hardware drivers for device incompatibilities and missing features.",
-        "Reduced the complexity of supporting a diverse array of platforms spanning over 30 hardware configurations, from custom system-on-chip to off-the-shelf hardware, including migrations from 32 to 64 bit operating systems and software.",
+        "Reduced the complexity of supporting a diverse array of platforms spanning over 30 hardware configurations, from custom system-on-chip to off-the-shelf hardware, including migrations from 32 to 64-bit operating systems and software.",
         "Built online report generator producing CSV, XML, JSON, and PDF reports.",
-        "Expanded markets to new customers by designing and building an interactive editor for creating digital signage presentations containing multi-zone and multi-screen configurations.",
-        "Reduced the count and size of servers through code, query, and index optimization.",
-        "Reduced implementation and support complexity by designing a single flexible architecture in C, C++, and Java to download, manage, and play customer media that grew to support Linux, Windows, and Android-based devices."
+        "Expanded markets to new customers by designing and building an interactive editor for creating digital signage presentations containing multi-zone and multi-screen configurations."
       ],
       "skills": [
         "Ruby",
@@ -168,6 +165,8 @@
     }
   ],
   "skills": [
+    { "tech": "Mentorship", "years": 12 },
+    { "tech": "Management", "years": 16 },
     { "tech": "Ruby", "years": 16 },
     { "tech": "Ruby on Rails", "years": 16 },
     { "tech": "Linux", "years": 15 },
