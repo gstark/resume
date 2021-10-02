@@ -14,11 +14,11 @@
       "endDate": "Present",
       "location": "Saint Petersburg, Florida",
       "descriptions": [
-        "Taught Ruby, TypeScript, React, HTML, CSS, Algorithmic Thinking, and C# to more than 150 students in an accelerated three-month program.",
-        "Developed curriculum for Ruby, C#, Entity Framework, ASP.NET, HTML, CSS, Responsive Web, JavaScript, TypeScript, React, Deployment, and Algorithmic Thinking. See <a class=\"underline print:no-underline\" href=\"https://handbook.suncoast.io\">https://handbook.suncoast.io</a>.",
-        "Contributed to internal app generator: <a class=\"underline print:no-underline\" href=\"https://www.npmjs.com/package/app-app\">app-app</a>. Based on react-scripts, builds student starter projects.",
-        "Built student management system: Nexus + Pylon, a Rails/React/TypeScript system to manage enrollment, homework assignment, grading, and student progress reports.",
-        "Helped place students as junior developers."
+        "Expanded market from full-time in-person classes into remote, part-time courses by developing an open-source curriculum for Ruby, C#, Entity Framework, ASP.NET, HTML, CSS, Responsive Web, JavaScript, TypeScript, React, Deployment, and Algorithmic Thinking. See <a class=\"underline print:no-underline\" href=\"https://handbook.suncoast.io\">https://handbook.suncoast.io</a>.",
+        "Enabled part-time courses by producing over 400 hours of recorded lectures with detailed slides and corresponding reading and code samples.",
+        "Reduced overhead of managing required student records by building a student management system in Rails/React/TypeScript to track enrollment, homework assignments, grading, and student progress reports.",
+        "Contributed to a 95% placement rate by identifying, recommending, and guiding students to secure positions as junior developers.",
+        "Contributed to internal app generator: <a class=\"underline print:no-underline\" href=\"https://www.npmjs.com/package/app-app\">app-app</a>. Based on react-scripts, builds student starter projects."
       ],
       "skills": [
         "Ruby",
@@ -40,12 +40,13 @@
       "endDate": "Present",
       "location": "Saint Petersburg, Florida",
       "descriptions": [
-        "Re-implemented, as primary developer, the NEOCAST digital signage management software. Built as a JSON-API back-end in Ruby on Rails and a front-end in over 30,000 lines of TypeScript and React using Bootstrap.",
-        "Built, deployed, and supported a Ruby on Rails project for over 15 years. From Rails version 0.9 through Rails version 6.1",
-        "Built custom Ubuntu-based OS to run on ARM-64 based embedded systems.",
-        "Developed and implemented custom kernel patches for ARM-64 systems.",
-        "Built automation software for deploying and scaling AWS resources to host a Docker-based application.",
-        "Implemented consolidated application log collection and analysis.",
+        "Improved the marketability of the NEOCAST digital signage management system by re-implementing, as the primary developer, the software as a JSON-API back-end in Ruby on Rails and a front-end in over 30,000 lines of TypeScript and React using Bootstrap.",
+        "Enabled new markets by creating and maintaining a custom Ubuntu-based OS that supported 32-bit Intel, 64-bit Intel, and then ARM-64 based embedded systems.",
+        "Maintained software development costs by building, deploying, and supporting a Ruby on Rails project for over 15 years. From Rails version 0.9 through Rails version 6.1",
+        "Lowered hardware platform costs by maintaining a single application architecture that ran on 32-bit Intel, 64-bit Intel, ARM-64, and Android devices.",
+        "Reduced hosting budget by building automation software for deploying and scaling AWS resources to host a Docker-based application.",
+        "Increased diagnostic capability and lowered time-to-resolution of issues by implementing consolidated application log collection and analysis.",
+        "Achieved first-to-market amongst other divisions in a transition to the ARM platform by developing and implementing custom kernel patches for ARM-64 systems.",
         "NOTE: <span class=\"italic\">STRATACACHE purchased real Digital Media.</span>"
       ],
       "skills": [
@@ -62,13 +63,13 @@
     },
     {
       "companyName": "The Iron Yard",
-      "jobTitle": "Instructor",
+      "jobTitle": "Instructor and Product Development",
       "startDate": "July 2015",
       "endDate": "July 2017",
       "location": "Saint Petersburg, Florida",
       "descriptions": [
-        "Taught Ruby, Ruby on Rails, HTML, CSS, JavaScript, React, Node, Express, Algorithmic Thinking, and Deployment to more than 80 students in an accelerated three-month program.",
-        "Built internal learning management software as part of an internal product development team."
+        "Increased enrollment at one of the most profitable campuses at the largest in-person code school through developing and implementing a curriculum for Ruby, Ruby on Rails, HTML, CSS, JavaScript, React, Node, Express, Algorithmic Thinking, and Deployment.",
+        "Improved our ease of delivery for curriculum and student information by building custom learning management software."
       ],
       "skills": [
         "JavaScript",
@@ -88,20 +89,21 @@
       "endDate": "July 2015",
       "location": "Saint Petersburg, Florida",
       "descriptions": [
+        "Designed, architected, and implemented a software-as-a-service digital signage platform recognized as the most adaptable and easy to use in the market.",
         "Managed a team developing Ruby on Rails applications to provide a remote management web application to operate our customer's digital signage networks.",
-        "Built infrastructure that processes over <span class=\"italic\">five million requests</span> and <span class=\"italic\">one million background jobs</span> per day.",
-        "Migrated infrastructure from one server in a closet, through a data center transition, to a scalable Amazon Web Services based architecture.",
-        "Built AWS infrastructure and software deployment strategy, including multi-zone redundancy.",
+        "Maintained excellent application availability by building infrastructure that processes over <span class=\"italic\">five million requests</span> and <span class=\"italic\">one million background jobs</span> per day.",
+        "Increased application uptime and fault tolerance by building and deploying an AWS infrastructure and software deployment strategy, including multi-zone redundancy.",
+        "Continually lowered operational costs by migrating infrastructure from one server in a closet through a data center transition to a scalable Amazon Web Services based architecture over the course of the application's lifetime.",
+        "Improved customer support by creating monitoring dashboards and alerts to forecast and resolve issues before customers are impacted.",
+        "Ensured continuity of business function by building disaster recovery policies and code, including offsite content and database backups.",
+        "Opened new markets by adding hardware platforms by developing Linux and Android software and custom Linux distributions to run on embedded and PC platforms.",
+        "Increased platform reliability and device uptime by creating a custom Ubuntu-based operating system designed to boot from a single squashfs root filesystem combined with an overlay filesystem allowing for secure and reliable remote upgrades of thousands of remote devices.",
+        "Increased the number of hardware platforms supported by patching Linux hardware drivers for device incompatibilities and missing features.",
+        "Reduced the complexity of supporting a diverse array of platforms spanning over 30 hardware configurations, from custom system-on-chip to off-the-shelf hardware, including migrations from 32 to 64 bit operating systems and software.",
         "Built online report generator producing CSV, XML, JSON, and PDF reports.",
-        "Designed and built an interactive editor for creating digital signage presentations containing multi-zone and multi-screen configurations.",
-        "Responsible for database design, including query and index optimization.",
-        "Created monitoring dashboards and alerts using Scout.",
-        "Built disaster recovery policies and code, including offsite content and database backups.",
-        "Developed Linux and Android software and custom Linux distributions to run on embedded and PC platforms.",
-        "Built software in C, C++, and Java to download, manage, and play customer media on Linux-based devices.",
-        "Patched Linux hardware drivers for device incompatibilities and missing features.",
-        "Created a custom Ubuntu-based operating system designed to boot from a single squashfs root filesystem combined with an overlay filesystem allowing for secure and reliable remote upgrades of thousands of remote devices.",
-        "Oversaw the migration from custom system-on-chip to off-the-shelf hardware, including migrations from 32 to 64 bit operating systems and software."
+        "Expanded markets to new customers by designing and building an interactive editor for creating digital signage presentations containing multi-zone and multi-screen configurations.",
+        "Reduced the count and size of servers through code, query, and index optimization.",
+        "Reduced implementation and support complexity by designing a single flexible architecture in C, C++, and Java to download, manage, and play customer media that grew to support Linux, Windows, and Android-based devices."
       ],
       "skills": [
         "Ruby",
@@ -122,9 +124,8 @@
       "endDate": "January 2005",
       "location": "Clearwater, Florida",
       "descriptions": [
-        "Served as a senior software architect on the Ballistic Missile Range Safety Technology program.",
-        "Led team building, testing, and certifying Flight Category 2 (one level below the safety category for human space flight) software in C++ to track launch vehicles, download telemetry, convert real-time telemetry data into actionable information, and plot the Instantaneous Impact Point of launch vehicles.",
-        "Created software to provide a 3D view of a launched rocket's projected impact point, allowing a safety office to decide to destroy the vehicle if it encroached on populated areas.",
+        "Innovated the use of commercial-off-the-shelf hardware and software (COTS) as a senior software architect on the Ballistic Missile Range Safety Technology program.",
+        "Achieved Flight Category 2 certification (one level below the safety category for human space flight) for tracking launch vehicles, downloading telemetry, converting real-time telemetry data into actionable information, and plotting the Instantaneous Impact Point of launch vehicles.",
         "See: <a class=\"underline print:no-underline\" href=\"https://en.wikipedia.org/wiki/BMRST\">https://en.wikipedia.org/wiki/BMRST</a>"
       ],
       "skills": ["C", "C++", "Windows"]
