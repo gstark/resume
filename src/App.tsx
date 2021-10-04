@@ -29,6 +29,8 @@ export function App() {
       <div className="mx-6 xl:mx-64 mb-20">
         <Header contact={resume.contact} />
 
+        <div className="leading-snug">{resume.about}</div>
+
         <Skills showTitle skills={resume.skills} />
 
         <Separator />

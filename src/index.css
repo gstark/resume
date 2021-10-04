@@ -9,7 +9,7 @@
 
 html {
   height: 100%;
-  @apply bg-gray-50 text-gray-700;
+  @apply bg-gray-50 text-gray-700 print:bg-white;
 }
 
 body {

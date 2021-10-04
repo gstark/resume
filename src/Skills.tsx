@@ -14,9 +14,11 @@ export function Skills({
   skills: { tech: string; years: number }[]
 }) {
   return (
-    <section className="grid grid-cols-12 my-5">
+    <section className="grid grid-cols-12 mt-5 mb-2">
       <p className={cx('font-bold tracking-widest', sectionTitleClassNames)}>
-        <span className="font-bold">{showTitle ? 'Skills' : null}</span>
+        <span className="font-bold text-blue-900">
+          {showTitle ? 'Technical Proficiencies' : null}
+        </span>
       </p>
       <article
         className={cx(

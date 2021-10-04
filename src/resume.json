@@ -3,22 +3,45 @@
     "name": "Gavin Stark",
     "email": "gavin@gstark.com",
     "phone": "727-560-3116",
+    "address": "Saint Petersburg, FL, 33703",
     "linkedin": "gastark",
     "github": "gstark"
   },
+  "about": "Analytical and keen professional with broad experience in creating, maintaining, auditing, and improving systems to fulfill clients’ requirements. Proficient in creating and deploying applications, coordinating developer teams, determining requirements, and interacting with implementation team to design sessions. Well-versed in analyzing development issues, designing system specifications and standards, testing product prototypes, and writing code. Ability to implement agile methodologies to drive team efficiency while introducing improvements to optimize software and web applications. Effective communicator with strong critical problem-solving skills along with an excellent commitment to team environment dynamics.",
   "experience": [
     {
       "companyName": "Suncoast Developers Guild",
-      "jobTitle": "Senior Instructor & Chief Technology Officer",
-      "startDate": "August 2018",
+      "jobTitle": "Senior Instructor",
+      "startDate": "2018",
       "endDate": "Present",
       "location": "Saint Petersburg, Florida",
+      "visibleOnWeb": true,
+      "visibleOnPrint": true,
       "descriptions": [
-        "Contributed to a 95% placement rate by identifying, recommending, and guiding students to secure positions as junior developers.",
-        "Contributed to internal app generator: <a class=\"underline print:no-underline\" href=\"https://www.npmjs.com/package/app-app\">app-app</a>. Based on react-scripts, builds student starter projects.",
-        "Expanded market from full-time in-person classes into remote, part-time courses by developing an open-source curriculum for Ruby, C#, Entity Framework, ASP.NET, HTML, CSS, Responsive Web, JavaScript, TypeScript, React, Deployment, and Algorithmic Thinking. See <a class=\"underline print:no-underline\" href=\"https://handbook.suncoast.io\">https://handbook.suncoast.io</a>.",
-        "Enabled part-time courses by producing over 400 hours of recorded lectures with detailed slides and corresponding reading and code samples.",
-        "Reduced overhead of managing required student records by building a student management system in Rails/React/TypeScript to track enrollment, homework assignments, grading, and student progress reports."
+        {
+          "text": "Devise and implement an interactive and engaging curriculum for multiple courses.",
+          "show": "paragraph"
+        },
+        {
+          "text": "Contributed to a 95% placement rate by identifying, recommending, and guiding students to secure positions as junior developers.",
+          "show": "paragraph"
+        },
+        {
+          "text": "Contributed to internal app generator: <a class=\"underline print:no-underline\" href=\"https://www.npmjs.com/package/app-app\">app-app</a>. Based on react-scripts, builds student starter projects.",
+          "show": "list"
+        },
+        {
+          "text": "Expanded market from full-time in-person classes into remote, part-time courses by developing an open-source curriculum for Ruby, C#, Entity Framework, ASP.NET, HTML, CSS, Responsive Web, JavaScript, TypeScript, React, Deployment, and Algorithmic Thinking.",
+          "show": "paragraph"
+        },
+        {
+          "text": "Enabled part-time courses by producing over 400 hours of recorded lectures with detailed slides and corresponding reading and code samples.",
+          "show": "list"
+        },
+        {
+          "text": "Reduced overhead by developing a student management system to effectively handle multiple operations, including enrollment, homework assignment, grading, and student progress reports.",
+          "show": "paragraph"
+        }
       ],
       "skills": [
         "Ruby",
@@ -34,19 +57,42 @@
       ]
     },
     {
-      "companyName": "STRATACACHE (Real Digital Media)",
+      "companyName": "STRATACACHE",
       "jobTitle": "Senior Developer",
-      "startDate": "August 2017",
+      "startDate": "2017",
       "endDate": "Present",
       "location": "Saint Petersburg, Florida",
+      "visibleOnWeb": true,
+      "visibleOnPrint": true,
       "descriptions": [
-        "Improved the marketability of the NEOCAST digital signage management system by re-implementing, as the primary developer, the software as a JSON-API back-end in Ruby on Rails and a front-end in over 30,000 lines of TypeScript and React using Bootstrap.",
-        "Enabled new markets by creating and maintaining a custom Ubuntu-based OS that supported 32-bit Intel, 64-bit Intel, and then ARM-64 based embedded systems.",
-        "Achieved first-to-market amongst other divisions in a transition to the ARM platform by developing and implementing custom kernel patches for ARM-64 systems.",
-        "Maintained software development costs by supporting a Ruby on Rails project for over 15 years. From Rails version 0.9 through Rails version 6.1",
-        "Lowered hardware platform costs by maintaining a single application architecture for 32-bit Intel, 64-bit Intel, ARM-64, and Android devices.",
-        "Reduced hosting budget by building automation software for deploying and scaling AWS resources to host a Docker-based application.",
-        "Increased diagnostic capability and lowered issue resolution time by implementing consolidated application log collection and analysis."
+        {
+          "text": "Improved the marketability of the NEOCAST digital signage management system by re-implementing, as the primary developer, the software as a JSON-API back-end in Ruby on Rails and a front-end in over 30,000 lines of TypeScript and React using Bootstrap.",
+          "show": "list"
+        },
+        {
+          "text": "Enabled new markets by creating and maintaining a custom Ubuntu-based OS that supported 32-bit Intel, 64-bit Intel, and ARM-64 based embedded systems.",
+          "show": "paragraph"
+        },
+        {
+          "text": "Achieved first-to-market amongst other divisions in a transition to the ARM platform by developing and implementing custom kernel patches for ARM-64 systems.",
+          "show": "paragraph"
+        },
+        {
+          "text": "Maintained software development costs by supporting a Ruby on Rails project for over 15 years. From Rails version 0.9 through Rails version 6.1",
+          "show": "list"
+        },
+        {
+          "text": "Lowered hardware platform costs by maintaining a single application architecture for 32-bit Intel, 64-bit Intel, ARM-64, and Android devices.",
+          "show": "list"
+        },
+        {
+          "text": "Reduced hosting budget by building automation software for deploying and scaling AWS resources to host a Docker-based application.",
+          "show": "list"
+        },
+        {
+          "text": "Increased diagnostic capability and lowered issue resolution time by implementing consolidated application log collection and analysis.",
+          "show": "hide"
+        }
       ],
       "skills": [
         "Ruby",
@@ -63,12 +109,20 @@
     {
       "companyName": "The Iron Yard",
       "jobTitle": "Instructor and Product Development",
-      "startDate": "July 2015",
-      "endDate": "July 2017",
+      "startDate": "2015",
+      "endDate": "2017",
       "location": "Saint Petersburg, Florida",
+      "visibleOnWeb": true,
+      "visibleOnPrint": true,
       "descriptions": [
-        "Increased enrollment at one of the most profitable campuses at the largest in-person code school through developing and implementing a curriculum for Ruby, Ruby on Rails, HTML, CSS, JavaScript, React, Node, Express, Algorithmic Thinking, and Deployment.",
-        "Improved our ease of delivery for curriculum and student information by building custom learning management software."
+        {
+          "text": "Increased enrollment at one of the most profitable campuses at the largest in-person code school through developing and implementing a curriculum for Ruby, Ruby on Rails, HTML, CSS, JavaScript, React, Node, Express, Algorithmic Thinking, and Deployment.",
+          "show": "paragraph"
+        },
+        {
+          "text": "Improved our ease of delivery for curriculum and student information by building custom learning management software.",
+          "show": "paragraph"
+        }
       ],
       "skills": [
         "JavaScript",
@@ -84,23 +138,64 @@
     {
       "companyName": "Real Digital Media",
       "jobTitle": "VP Product Development & Engineering",
-      "startDate": "January 2005",
-      "endDate": "July 2015",
+      "startDate": "2005",
+      "endDate": "2015",
       "location": "Saint Petersburg, Florida",
+      "visibleOnWeb": true,
+      "visibleOnPrint": true,
       "descriptions": [
-        "Designed, architected, and implemented a software-as-a-service digital signage platform recognized as the most adaptable and easy to use in the market.",
-        "Managed a team developing Ruby on Rails applications to provide a remote management web application to operate our customer's digital signage networks.",
-        "Maintained excellent application availability by building infrastructure that processes over <span class=\"italic\">five million requests</span> and <span class=\"italic\">one million background jobs</span> per day.",
-        "Increased application uptime and fault tolerance by building and deploying an AWS infrastructure and software deployment strategy, including multi-zone redundancy.",
-        "Continually lowered operational costs by migrating infrastructure from one server in a closet through a data center transition to a scalable Amazon Web Services based architecture over the course of the application's lifetime.",
-        "Improved customer support by creating monitoring dashboards and alerts to forecast and resolve issues before customers are impacted.",
-        "Ensured continuity of business functions by building disaster recovery policies and code, including offsite content and database backups.",
-        "Opened new hardware markets by developing Linux and Android software and custom Linux distributions to run on embedded and PC platforms.",
-        "Increased platform reliability and device uptime of thousands of remote devices by creating a custom Ubuntu-based operating system designed to boot from a single squashfs root filesystem combined with an overlay filesystem allowing for secure and reliable remote upgrades.",
-        "Increased the number of hardware platforms supported by patching Linux hardware drivers for device incompatibilities and missing features.",
-        "Reduced the complexity of supporting a diverse array of platforms spanning over 30 hardware configurations, from custom system-on-chip to off-the-shelf hardware, including migrations from 32 to 64-bit operating systems and software.",
-        "Built online report generator producing CSV, XML, JSON, and PDF reports.",
-        "Expanded markets to new customers by designing and building an interactive editor for creating digital signage presentations containing multi-zone and multi-screen configurations."
+        {
+          "text": "Designed, architected, and implemented a software-as-a-service digital signage platform recognized as the most adaptable and easy to use in the market.",
+          "show": "hide"
+        },
+        {
+          "text": "Managed a team developing Ruby on Rails applications to provide a remote management web application to operate our customer's digital signage networks.",
+          "show": "paragraph"
+        },
+        {
+          "text": "Maintained excellent application availability by building infrastructure that processes over <span class=\"italic\">five million requests</span> and <span class=\"italic\">one million background jobs</span> per day.",
+          "show": "hide"
+        },
+        {
+          "text": "Increased application uptime and fault tolerance by building and deploying an AWS infrastructure and software deployment strategy, including multi-zone redundancy.",
+          "show": "paragraph"
+        },
+        {
+          "text": "Continually lowered operational costs by migrating infrastructure from one server in a closet through a data center transition to a scalable Amazon Web Services based architecture over the course of the application's lifetime.",
+          "show": "hide"
+        },
+        {
+          "text": "Improved customer support by creating monitoring dashboards and alerts to forecast and resolve issues before affecting customers.",
+          "show": "paragraph"
+        },
+        {
+          "text": "Ensured continuity of business functions by building disaster recovery policies and code, including offsite content and database backups.",
+          "show": "list"
+        },
+        {
+          "text": "Opened new hardware markets by developing Linux and Android software and custom Linux distributions to run on embedded and PC platforms.",
+          "show": "list"
+        },
+        {
+          "text": "Increased platform reliability and uptime of thousands of remote devices by creating a custom Ubuntu-based operating system designed to boot from a single squashfs root filesystem combined with an overlay filesystem allowing for secure and reliable remote upgrades.",
+          "show": "list"
+        },
+        {
+          "text": "Increased the number of hardware platforms supported by patching Linux hardware drivers for device incompatibilities and missing features.",
+          "show": "paragraph"
+        },
+        {
+          "text": "Reduced the complexity of supporting a diverse array of platforms spanning over 30 hardware configurations, from custom system-on-chip to off-the-shelf hardware, including migrations from 32 to 64-bit operating systems and software.",
+          "show": "paragraph"
+        },
+        {
+          "text": "Built online report generator producing CSV, XML, JSON, and PDF reports.",
+          "show": "list"
+        },
+        {
+          "text": "Expanded markets to new customers by designing and building an interactive editor for creating digital signage presentations containing multi-zone and multi-screen configurations.",
+          "show": "list"
+        }
       ],
       "skills": [
         "Ruby",
@@ -117,49 +212,84 @@
     {
       "companyName": "Honeywell Space Systems",
       "jobTitle": "Senior Engineer",
-      "startDate": "March 2002",
-      "endDate": "January 2005",
+      "startDate": "2002",
+      "endDate": "2005",
       "location": "Clearwater, Florida",
+      "visibleOnWeb": true,
+      "visibleOnPrint": false,
       "descriptions": [
-        "Innovated the use of commercial-off-the-shelf hardware and software (COTS) as a senior software architect on the Ballistic Missile Range Safety Technology program.",
-        "Achieved Flight Category 2 certification (one level below the safety category for human space flight) for tracking launch vehicles, downloading telemetry, converting real-time telemetry data into actionable information, and plotting the Instantaneous Impact Point of launch vehicles.",
-        "See: <a class=\"underline print:no-underline\" href=\"https://en.wikipedia.org/wiki/BMRST\">https://en.wikipedia.org/wiki/BMRST</a>"
+        {
+          "text": "Innovated the use of commercial-off-the-shelf hardware and software (COTS) as a senior software architect on the Ballistic Missile Range Safety Technology program.",
+          "show": "paragraph"
+        },
+        {
+          "text": "Achieved Flight Category 2 certification (one level below the safety category for human space flight) for tracking launch vehicles, downloading telemetry, converting real-time telemetry data into actionable information, and plotting the Instantaneous Impact Point of launch vehicles.",
+          "show": "paragraph"
+        },
+        {
+          "text": "See: <a class=\"underline print:no-underline\" href=\"https://en.wikipedia.org/wiki/BMRST\">https://en.wikipedia.org/wiki/BMRST</a>",
+          "show": "paragraph"
+        }
       ],
       "skills": ["C", "C++", "Windows"]
     },
     {
       "companyName": "Teltronics",
       "jobTitle": "Senior Software Engineer",
-      "startDate": "Feb 2000",
-      "endDate": "March 2002",
+      "startDate": "2000",
+      "endDate": "2002",
       "location": "Sarasota, Florida",
+      "visibleOnWeb": true,
+      "visibleOnPrint": false,
       "descriptions": [
-        "Senior software engineer building C++ and Windows-based software for managing networks of PBX phone systems.",
-        "Contributed to embedded systems software in C and C++",
-        "Created and executed unit, system, and acceptance tests."
+        {
+          "text": "Senior software engineer building C++ and Windows-based software for managing networks of PBX phone systems.",
+          "show": "paragraph"
+        },
+        {
+          "text": "Contributed to embedded systems software in C and C++",
+          "show": "paragraph"
+        },
+        {
+          "text": "Created and executed unit, system, and acceptance tests.",
+          "show": "paragraph"
+        }
       ],
       "skills": ["C", "C++", "Windows"]
     },
     {
       "companyName": "Epsilon Squared Software",
-      "jobTitle": "Owner & Chief Technology Officer",
-      "startDate": "January 1999",
-      "endDate": "Feb 2000",
+      "jobTitle": "Owner",
+      "startDate": "1999",
+      "endDate": "2000",
       "location": "St Petersburg, Florida",
+      "visibleOnWeb": true,
+      "visibleOnPrint": false,
       "descriptions": [
-        "Built, marketed, and sold products (InstallWatch and InstallRite) for documenting and automating the remote deployment of software on Microsoft Windows networks."
+        {
+          "text": "Built, marketed, and sold products (InstallWatch and InstallRite) for documenting and automating the remote deployment of software on Microsoft Windows networks.",
+          "show": "paragraph"
+        }
       ],
       "skills": ["C", "C++", "Windows"]
     },
     {
       "companyName": "CFT Consulting",
       "jobTitle": "Senior Consultant",
-      "startDate": "July 1995",
-      "endDate": "January 1999",
+      "startDate": "1995",
+      "endDate": "1999",
       "location": "Sarasota, Florida",
+      "visibleOnWeb": true,
+      "visibleOnPrint": false,
       "descriptions": [
-        "Designed and built software systems for nationwide system deployments and migrations of POS terminals, inventory management systems, warehouse management systems, and accounting systems for GAP, Egghead, Totes, and Adidas.",
-        "Managed the RFP process for large POS and Merchandising system selections."
+        {
+          "text": "Designed and built software systems for nationwide system deployments and migrations of POS terminals, inventory management systems, warehouse management systems, and accounting systems for GAP, Egghead, Totes, and Adidas.",
+          "show": "paragraph"
+        },
+        {
+          "text": "Managed the RFP process for large POS and Merchandising system selections.",
+          "show": "paragraph"
+        }
       ],
       "skills": ["C", "C++", "Windows"]
     }

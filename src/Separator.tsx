@@ -1,5 +1,5 @@
 import React from 'react'
 
 export function Separator() {
-  return <div className="mt-12" />
+  return <div className="mt-6" />
 }

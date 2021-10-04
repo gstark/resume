@@ -12,7 +12,7 @@ export function AboutResume() {
     <section className="grid grid-cols-12 my-0 print:hidden">
       <p
         className={cx(
-          'font-bold tracking-widest',
+          'font-bold text-blue-900 tracking-widest',
           sectionTitleClassNames,
           sectionTitleBorderClassNames
         )}>

@@ -23,19 +23,23 @@ export function Education({
   return (
     <section className="grid grid-cols-12 my-2">
       <p
-        className={cx('font-bold tracking-widest', sectionTitleClassNames, {
-          [sectionTitleBorderClassNames]: showTitle,
-        })}
-      >
+        className={cx(
+          'font-bold text-blue-900 tracking-widest',
+          sectionTitleClassNames,
+          {
+            [sectionTitleBorderClassNames]: showTitle,
+          }
+        )}>
         {showTitle ? 'Education' : null}
       </p>
       <article
         className={cx(sectionBodyClassNames, {
           [sectionBodyBorderClassNames]: showTitle,
-        })}
-      >
+        })}>
         <p className="mb-1">
-          <span className="font-bold tracking-wide">{school}</span>
+          <span className="font-bold text-blue-900 tracking-wide">
+            {school}
+          </span>
         </p>
         <p className="mb-1">
           <span>{degree}</span>
