@@ -20,11 +20,11 @@
       "descriptions": [
         {
           "text": "Devise and implement an interactive and engaging curriculum for multiple courses.",
-          "show": "paragraph"
+          "show": "list"
         },
         {
           "text": "Contributed to a 95% placement rate by identifying, recommending, and guiding students to secure positions as junior developers.",
-          "show": "paragraph"
+          "show": "list"
         },
         {
           "text": "Contributed to internal app generator: <a class=\"underline print:no-underline\" href=\"https://www.npmjs.com/package/app-app\">app-app</a>. Based on react-scripts, builds student starter projects.",
@@ -32,7 +32,7 @@
         },
         {
           "text": "Expanded market from full-time in-person classes into remote, part-time courses by developing an open-source curriculum for Ruby, C#, Entity Framework, ASP.NET, HTML, CSS, Responsive Web, JavaScript, TypeScript, React, Deployment, and Algorithmic Thinking.",
-          "show": "paragraph"
+          "show": "list"
         },
         {
           "text": "Enabled part-time courses by producing over 400 hours of recorded lectures with detailed slides and corresponding reading and code samples.",
@@ -40,7 +40,7 @@
         },
         {
           "text": "Reduced overhead by developing a student management system to effectively handle multiple operations, including enrollment, homework assignment, grading, and student progress reports.",
-          "show": "paragraph"
+          "show": "list"
         }
       ],
       "skills": [
@@ -71,11 +71,11 @@
         },
         {
           "text": "Enabled new markets by creating and maintaining a custom Ubuntu-based OS that supported 32-bit Intel, 64-bit Intel, and ARM-64 based embedded systems.",
-          "show": "paragraph"
+          "show": "list"
         },
         {
           "text": "Achieved first-to-market amongst other divisions in a transition to the ARM platform by developing and implementing custom kernel patches for ARM-64 systems.",
-          "show": "paragraph"
+          "show": "list"
         },
         {
           "text": "Maintained software development costs by supporting a Ruby on Rails project for over 15 years. From Rails version 0.9 through Rails version 6.1",
@@ -117,11 +117,11 @@
       "descriptions": [
         {
           "text": "Increased enrollment at one of the most profitable campuses at the largest in-person code school through developing and implementing a curriculum for Ruby, Ruby on Rails, HTML, CSS, JavaScript, React, Node, Express, Algorithmic Thinking, and Deployment.",
-          "show": "paragraph"
+          "show": "list"
         },
         {
           "text": "Improved our ease of delivery for curriculum and student information by building custom learning management software.",
-          "show": "paragraph"
+          "show": "list"
         }
       ],
       "skills": [
@@ -150,7 +150,7 @@
         },
         {
           "text": "Managed a team developing Ruby on Rails applications to provide a remote management web application to operate our customer's digital signage networks.",
-          "show": "paragraph"
+          "show": "list"
         },
         {
           "text": "Maintained excellent application availability by building infrastructure that processes over <span class=\"italic\">five million requests</span> and <span class=\"italic\">one million background jobs</span> per day.",
@@ -158,7 +158,7 @@
         },
         {
           "text": "Increased application uptime and fault tolerance by building and deploying an AWS infrastructure and software deployment strategy, including multi-zone redundancy.",
-          "show": "paragraph"
+          "show": "list"
         },
         {
           "text": "Continually lowered operational costs by migrating infrastructure from one server in a closet through a data center transition to a scalable Amazon Web Services based architecture over the course of the application's lifetime.",
@@ -166,7 +166,7 @@
         },
         {
           "text": "Improved customer support by creating monitoring dashboards and alerts to forecast and resolve issues before affecting customers.",
-          "show": "paragraph"
+          "show": "list"
         },
         {
           "text": "Ensured continuity of business functions by building disaster recovery policies and code, including offsite content and database backups.",
@@ -182,11 +182,11 @@
         },
         {
           "text": "Increased the number of hardware platforms supported by patching Linux hardware drivers for device incompatibilities and missing features.",
-          "show": "paragraph"
+          "show": "list"
         },
         {
           "text": "Reduced the complexity of supporting a diverse array of platforms spanning over 30 hardware configurations, from custom system-on-chip to off-the-shelf hardware, including migrations from 32 to 64-bit operating systems and software.",
-          "show": "paragraph"
+          "show": "list"
         },
         {
           "text": "Built online report generator producing CSV, XML, JSON, and PDF reports.",
@@ -220,15 +220,15 @@
       "descriptions": [
         {
           "text": "Innovated the use of commercial-off-the-shelf hardware and software (COTS) as a senior software architect on the Ballistic Missile Range Safety Technology program.",
-          "show": "paragraph"
+          "show": "list"
         },
         {
           "text": "Achieved Flight Category 2 certification (one level below the safety category for human space flight) for tracking launch vehicles, downloading telemetry, converting real-time telemetry data into actionable information, and plotting the Instantaneous Impact Point of launch vehicles.",
-          "show": "paragraph"
+          "show": "list"
         },
         {
           "text": "See: <a class=\"underline print:no-underline\" href=\"https://en.wikipedia.org/wiki/BMRST\">https://en.wikipedia.org/wiki/BMRST</a>",
-          "show": "paragraph"
+          "show": "list"
         }
       ],
       "skills": ["C", "C++", "Windows"]
@@ -244,15 +244,15 @@
       "descriptions": [
         {
           "text": "Senior software engineer building C++ and Windows-based software for managing networks of PBX phone systems.",
-          "show": "paragraph"
+          "show": "list"
         },
         {
           "text": "Contributed to embedded systems software in C and C++",
-          "show": "paragraph"
+          "show": "list"
         },
         {
           "text": "Created and executed unit, system, and acceptance tests.",
-          "show": "paragraph"
+          "show": "list"
         }
       ],
       "skills": ["C", "C++", "Windows"]
@@ -268,7 +268,7 @@
       "descriptions": [
         {
           "text": "Built, marketed, and sold products (InstallWatch and InstallRite) for documenting and automating the remote deployment of software on Microsoft Windows networks.",
-          "show": "paragraph"
+          "show": "list"
         }
       ],
       "skills": ["C", "C++", "Windows"]
@@ -284,11 +284,11 @@
       "descriptions": [
         {
           "text": "Designed and built software systems for nationwide system deployments and migrations of POS terminals, inventory management systems, warehouse management systems, and accounting systems for GAP, Egghead, Totes, and Adidas.",
-          "show": "paragraph"
+          "show": "list"
         },
         {
           "text": "Managed the RFP process for large POS and Merchandising system selections.",
-          "show": "paragraph"
+          "show": "list"
         }
       ],
       "skills": ["C", "C++", "Windows"]
