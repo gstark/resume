@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 :root {
   font: 16px / 1 sans-serif;
   font-family: 'Jost', sans-serif;
@@ -23,12 +27,4 @@ li::before {
   left: 0rem;
   transform: scale(0.7);
   content: '●';
-}
-
-.nav-link {
-  @apply py-2;
-}
-
-.nav-link.active {
-  @apply font-bold;
 }

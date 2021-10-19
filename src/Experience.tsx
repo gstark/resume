@@ -1,5 +1,6 @@
 import React from 'react'
 import cx from 'classnames'
+import { useParams } from 'react-router-dom'
 import {
   sectionTitleClassNames,
   sectionTitleBorderClassNames,
@@ -26,8 +27,19 @@ export function Experience({
   location: string
   visibleOnWeb: boolean
   visibleOnPrint: boolean
-  descriptions: { text: string; show: string }[]
+  descriptions: {
+    text: string
+    show: string
+    areas: string[]
+  }[]
 }) {
+  const { area } = useParams<{ area: string | undefined }>()
+
+  const descriptionsToShow =
+    area === undefined
+      ? descriptions
+      : descriptions.filter((description) => description.areas.includes(area))
+
   return (
     <section
       className={`grid grid-cols-12 my-2 ${visibleOnWeb ? 'block' : 'hidden'} ${
@@ -61,13 +73,13 @@ export function Experience({
         <p
           className="leading-snug"
           dangerouslySetInnerHTML={{
-            __html: descriptions
+            __html: descriptionsToShow
               .filter((description) => description.show === 'paragraph')
               .map((description) => description.text)
               .join(' '),
           }}></p>
         <ul>
-          {descriptions
+          {descriptionsToShow
             .filter((description) => description.show === 'list')
             .map((description, index) => (
               <li

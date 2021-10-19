@@ -7,55 +7,8 @@
     "linkedin": "gastark",
     "github": "gstark"
   },
-  "about": "Analytical and keen professional with broad experience in creating, maintaining, auditing, and improving systems to fulfill clients’ requirements. Proficient in creating and deploying applications, coordinating developer teams, determining requirements, and interacting with implementation team to design sessions. Well-versed in analyzing development issues, designing system specifications and standards, testing product prototypes, and writing code. Ability to implement agile methodologies to drive team efficiency while introducing improvements to optimize software and web applications. Effective communicator with strong critical problem-solving skills along with an excellent commitment to team environment dynamics.",
+  "about": "Software engineer with broad experience in Back End Web, Front End Web, DevOps, and Operating Systems who creates, maintains, audits, and improves systems to fulfill clients’ requirements. Proficient in determining requirements, coordinating developer teams, and creating and deploying applications.",
   "experience": [
-    {
-      "companyName": "Suncoast Developers Guild",
-      "jobTitle": "Senior Instructor",
-      "startDate": "2018",
-      "endDate": "Present",
-      "location": "Saint Petersburg, Florida",
-      "visibleOnWeb": true,
-      "visibleOnPrint": true,
-      "descriptions": [
-        {
-          "text": "Devise and implement an interactive and engaging curriculum for multiple courses.",
-          "show": "list"
-        },
-        {
-          "text": "Contributed to a 95% placement rate by identifying, recommending, and guiding students to secure positions as junior developers.",
-          "show": "list"
-        },
-        {
-          "text": "Contributed to internal app generator: <a class=\"underline print:no-underline\" href=\"https://www.npmjs.com/package/app-app\">app-app</a>. Based on react-scripts, builds student starter projects.",
-          "show": "list"
-        },
-        {
-          "text": "Expanded market from full-time in-person classes into remote, part-time courses by developing an open-source curriculum for Ruby, C#, Entity Framework, ASP.NET, HTML, CSS, Responsive Web, JavaScript, TypeScript, React, Deployment, and Algorithmic Thinking.",
-          "show": "list"
-        },
-        {
-          "text": "Enabled part-time courses by producing over 400 hours of recorded lectures with detailed slides and corresponding reading and code samples.",
-          "show": "list"
-        },
-        {
-          "text": "Reduced overhead by developing a student management system to effectively handle multiple operations, including enrollment, homework assignment, grading, and student progress reports.",
-          "show": "list"
-        }
-      ],
-      "skills": [
-        "Ruby",
-        "Ruby On Rails",
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Deployment",
-        "PostgreSQL",
-        "C#"
-      ]
-    },
     {
       "companyName": "STRATACACHE",
       "jobTitle": "Senior Developer",
@@ -66,32 +19,56 @@
       "visibleOnPrint": true,
       "descriptions": [
         {
-          "text": "Improved the marketability of the NEOCAST digital signage management system by re-implementing, as the primary developer, the software as a JSON-API back-end in Ruby on Rails and a front-end in over 30,000 lines of TypeScript and React.",
-          "show": "list"
+          "text": "Developed, maintained, and improved a large-scale Ruby on Rails project for over 15 years. Migrated from Rails version 0.9 through Rails version 6.1",
+          "show": "list",
+          "areas": ["front-end-web", "back-end-web"]
         },
         {
+          "text": "Built a Ruby back-end API that processes over five million requests and one million background jobs per day.",
+          "show": "list",
+          "areas": ["back-end-web"]
+        },
+        {
+          "text": "Migrated the Ruby on Rails system to a JSON-API-based back-end, improving the marketability of the NEOCAST digital signage management system.",
+          "show": "list",
+          "areas": ["back-end-web"]
+        },
+        {
+          "text": "Used RSpec to provide full test coverage of the authorization layer in the Rails JSON-API",
+          "show": "list",
+          "areas": ["back-end-web"]
+        },
+        {
+          "text": "Developed a React front-end application to leverage a JSON-API back-end for customers to manage their digital signage networks",
+          "show": "list",
+          "areas": ["front-end-web"]
+        },
+
+        {
           "text": "Enabled new markets by creating and maintaining a custom Ubuntu-based OS that supported 32-bit Intel, 64-bit Intel, and ARM-64 based embedded systems.",
-          "show": "list"
+          "show": "list",
+          "areas": ["systems"]
         },
         {
           "text": "Achieved first-to-market amongst other divisions in a transition to the ARM platform by developing and implementing custom kernel patches for ARM-64 systems.",
-          "show": "list"
+          "show": "list",
+          "areas": ["systems"]
         },
-        {
-          "text": "Maintained software development costs by supporting a Ruby on Rails project for over 15 years. From Rails version 0.9 through Rails version 6.1",
-          "show": "list"
-        },
+
         {
           "text": "Lowered hardware platform costs by maintaining a single application architecture for 32-bit Intel, 64-bit Intel, ARM-64, and Android devices.",
-          "show": "list"
+          "show": "list",
+          "areas": ["systems"]
         },
         {
-          "text": "Reduced hosting budget by building automation software for deploying and scaling AWS resources to host a Docker-based application.",
-          "show": "list"
+          "text": "Built Ruby based AWS automation software to deploy and scale a docker-based infrastructure. This lead to a reduction in hosting costs.",
+          "show": "list",
+          "areas": ["back-end-web", "systems"]
         },
         {
           "text": "Increased diagnostic capability and lowered issue resolution time by implementing consolidated application log collection and analysis.",
-          "show": "hide"
+          "show": "hide",
+          "areas": ["systems"]
         }
       ],
       "skills": [
@@ -107,6 +84,60 @@
       ]
     },
     {
+      "companyName": "Suncoast Developers Guild",
+      "jobTitle": "Senior Instructor",
+      "startDate": "2018",
+      "endDate": "Present",
+      "location": "Saint Petersburg, Florida",
+      "visibleOnWeb": true,
+      "visibleOnPrint": true,
+      "descriptions": [
+        {
+          "text": "Devise and implement an interactive and engaging curriculum for multiple courses.",
+          "show": "list",
+          "areas": ["front-end-web", "back-end-web"]
+        },
+        {
+          "text": "Contributed to internal app generator: <a class=\"underline print:no-underline\" href=\"https://www.npmjs.com/package/app-app\">app-app</a>. Based on react-scripts, builds student starter projects.",
+          "show": "list",
+          "areas": ["front-end-web", "back-end-web"]
+        },
+        {
+          "text": "Contributed to a 95% placement rate by identifying, recommending, and guiding students to secure positions as junior developers.",
+          "show": "list",
+          "areas": [""]
+        },
+        {
+          "text": "Expanded market from full-time in-person classes into remote, part-time courses by developing an open-source curriculum for Ruby, C#, Entity Framework, ASP.NET, HTML, CSS, Responsive Web, JavaScript, TypeScript, React, Deployment, and Algorithmic Thinking.",
+          "show": "list",
+          "areas": ["front-end-web", "back-end-web"]
+        },
+        {
+          "text": "Enabled part-time courses by producing over 400 hours of recorded lectures with detailed slides and corresponding reading and code samples.",
+          "show": "hide",
+          "areas": ["front-end-web", "back-end-web"]
+        },
+        {
+          "text": "Reduced overhead by developing a Ruby on Rails based student management system to effectively handle multiple operations, including enrollment, homework assignment, grading, and student progress reports.",
+          "show": "list",
+          "areas": ["front-end-web", "back-end-web"]
+        }
+      ],
+      "skills": [
+        "Ruby",
+        "Ruby On Rails",
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Deployment",
+        "PostgreSQL",
+        "C#"
+      ]
+    },
+
+    {
       "companyName": "The Iron Yard",
       "jobTitle": "Instructor and Product Development",
       "startDate": "2015",
@@ -117,11 +148,13 @@
       "descriptions": [
         {
           "text": "Increased enrollment at one of the most profitable campuses at the largest in-person code school through developing and implementing a curriculum for Ruby, Ruby on Rails, HTML, CSS, JavaScript, React, Node, Express, Algorithmic Thinking, and Deployment.",
-          "show": "list"
+          "show": "list",
+          "areas": ["back-end-web", "front-end-web"]
         },
         {
-          "text": "Improved our ease of delivery for curriculum and student information by building custom learning management software.",
-          "show": "list"
+          "text": "Built a Ruby on Rails based learning management software to manage student information, assignments, and performance.",
+          "show": "list",
+          "areas": ["back-end-web", "front-end-web"]
         }
       ],
       "skills": [
@@ -145,56 +178,69 @@
       "visibleOnPrint": true,
       "descriptions": [
         {
-          "text": "Designed, architected, and implemented a software-as-a-service digital signage platform recognized as the most adaptable and easy to use in the market.",
-          "show": "hide"
+          "text": "Designed, architected, and implemented a Ruby on Rails based software-as-a-service digital signage platform recognized as the most adaptable and easy to use in the market.",
+          "show": "list",
+          "areas": ["back-end-web", "front-end-web"]
         },
         {
           "text": "Managed a team developing Ruby on Rails applications to provide a remote management web application to operate our customer's digital signage networks.",
-          "show": "list"
+          "show": "list",
+          "areas": ["back-end-web"]
         },
         {
           "text": "Maintained excellent application availability by building infrastructure that processes over <span class=\"italic\">five million requests</span> and <span class=\"italic\">one million background jobs</span> per day.",
-          "show": "hide"
+          "show": "list",
+          "areas": ["systems"]
         },
         {
           "text": "Increased application uptime and fault tolerance by building and deploying an AWS infrastructure and software deployment strategy, including multi-zone redundancy.",
-          "show": "list"
+          "show": "list",
+          "areas": ["systems"]
         },
         {
           "text": "Continually lowered operational costs by migrating infrastructure from one server in a closet through a data center transition to a scalable Amazon Web Services based architecture over the course of the application's lifetime.",
-          "show": "hide"
+          "show": "list",
+          "areas": ["systems"]
         },
         {
-          "text": "Improved customer support by creating monitoring dashboards and alerts to forecast and resolve issues before affecting customers.",
-          "show": "list"
+          "text": "Improved customer support by creating Ruby API for customer service dashboards and alerts.",
+          "show": "list",
+          "areas": ["back-end-web"]
         },
         {
           "text": "Ensured continuity of business functions by building disaster recovery policies and code, including offsite content and database backups.",
-          "show": "list"
+          "show": "list",
+          "areas": ["systems"]
         },
         {
           "text": "Opened new hardware markets by developing Linux and Android software and custom Linux distributions to run on embedded and PC platforms.",
-          "show": "list"
+          "show": "list",
+          "areas": ["systems"]
         },
         {
           "text": "Increased platform reliability and uptime of thousands of remote devices by creating a custom Ubuntu-based operating system designed to boot from a single squashfs root filesystem combined with an overlay filesystem allowing for secure and reliable remote upgrades.",
-          "show": "list"
+          "show": "list",
+          "areas": ["systems"]
         },
         {
           "text": "Increased the number of hardware platforms supported by patching Linux hardware drivers for device incompatibilities and missing features.",
-          "show": "list"
+          "show": "list",
+          "areas": ["systems"]
         },
         {
           "text": "Reduced the complexity of supporting a diverse array of platforms spanning over 30 hardware configurations, from custom system-on-chip to off-the-shelf hardware, including migrations from 32 to 64-bit operating systems and software.",
-          "show": "list"
+          "show": "list",
+          "areas": ["systems"]
         },
         {
-          "text": "Built online report generator producing CSV, XML, JSON, and PDF reports.",
-          "show": "list"
+          "text": "Built online Ruby on Rails report generator producing CSV, XML, JSON, and PDF reports.",
+          "show": "list",
+          "areas": ["back-end-web"]
         },
         {
           "text": "Expanded markets to new customers by designing and building an interactive editor for creating digital signage presentations containing multi-zone and multi-screen configurations.",
-          "show": "list"
+          "show": "list",
+          "areas": ["systems"]
         }
       ],
       "skills": [
@@ -220,15 +266,18 @@
       "descriptions": [
         {
           "text": "Innovated the use of commercial-off-the-shelf hardware and software (COTS) as a senior software architect on the Ballistic Missile Range Safety Technology program.",
-          "show": "list"
+          "show": "list",
+          "areas": ["systems"]
         },
         {
           "text": "Achieved Flight Category 2 certification (one level below the safety category for human space flight) for tracking launch vehicles, downloading telemetry, converting real-time telemetry data into actionable information, and plotting the Instantaneous Impact Point of launch vehicles.",
-          "show": "list"
+          "show": "list",
+          "areas": ["systems"]
         },
         {
           "text": "See: <a class=\"underline print:no-underline\" href=\"https://en.wikipedia.org/wiki/BMRST\">https://en.wikipedia.org/wiki/BMRST</a>",
-          "show": "list"
+          "show": "list",
+          "areas": ["systems"]
         }
       ],
       "skills": ["C", "C++", "Windows"]
@@ -244,15 +293,18 @@
       "descriptions": [
         {
           "text": "Senior software engineer building C++ and Windows-based software for managing networks of PBX phone systems.",
-          "show": "list"
+          "show": "list",
+          "areas": ["systems"]
         },
         {
           "text": "Contributed to embedded systems software in C and C++",
-          "show": "list"
+          "show": "list",
+          "areas": ["systems"]
         },
         {
           "text": "Created and executed unit, system, and acceptance tests.",
-          "show": "list"
+          "show": "list",
+          "areas": ["systems"]
         }
       ],
       "skills": ["C", "C++", "Windows"]
@@ -268,7 +320,8 @@
       "descriptions": [
         {
           "text": "Built, marketed, and sold products (InstallWatch and InstallRite) for documenting and automating the remote deployment of software on Microsoft Windows networks.",
-          "show": "list"
+          "show": "list",
+          "areas": ["systems"]
         }
       ],
       "skills": ["C", "C++", "Windows"]
@@ -284,39 +337,50 @@
       "descriptions": [
         {
           "text": "Designed and built software systems for nationwide system deployments and migrations of POS terminals, inventory management systems, warehouse management systems, and accounting systems for GAP, Egghead, Totes, and Adidas.",
-          "show": "list"
+          "show": "list",
+          "areas": ["systems"]
         },
         {
           "text": "Managed the RFP process for large POS and Merchandising system selections.",
-          "show": "list"
+          "show": "list",
+          "areas": ["systems"]
         }
       ],
       "skills": ["C", "C++", "Windows"]
     }
   ],
   "skills": [
-    { "tech": "Mentorship", "years": 12 },
-    { "tech": "Management", "years": 16 },
-    { "tech": "Ruby", "years": 16 },
-    { "tech": "Ruby on Rails", "years": 16 },
-    { "tech": "Linux", "years": 15 },
-    { "tech": "C", "years": 34 },
-    { "tech": "C++", "years": 29 },
-    { "tech": "JavaScript", "years": 16 },
-    { "tech": "TypeScript", "years": 3 },
-    { "tech": "Java", "years": 16 },
-    { "tech": "C#", "years": 3 },
-    { "tech": "HTML", "years": 16 },
-    { "tech": "CSS", "years": 16 },
-    { "tech": "TDD", "years": 14 },
-    { "tech": "Docker", "years": 5 },
-    { "tech": "React", "years": 4 },
-    { "tech": "Heroku", "years": 6 },
-    { "tech": "Nginx", "years": 11 },
-    { "tech": "VMWare", "years": 9 },
-    { "tech": "MySQL", "years": 15 },
-    { "tech": "PostgreSQL", "years": 6 },
-    { "tech": "Windows", "years": 8 }
+    { "tech": "Ruby", "years": 16, "areas": ["back-end-web"] },
+    { "tech": "Ruby on Rails", "years": 16, "areas": ["back-end-web"] },
+    { "tech": "Java", "years": 16, "areas": ["back-end-web"] },
+    { "tech": "C#", "years": 3, "areas": ["back-end-web"] },
+    { "tech": "TDD", "years": 14, "areas": ["back-end-web"] },
+    { "tech": "Docker", "years": 5, "areas": ["back-end-web"] },
+
+    { "tech": "Linux", "years": 15, "areas": ["back-end-web", "systems"] },
+    { "tech": "C", "years": 34, "areas": ["systems"] },
+    { "tech": "C++", "years": 29, "areas": ["systems"] },
+    { "tech": "JavaScript", "years": 16, "areas": ["front-end-web"] },
+    { "tech": "TypeScript", "years": 3, "areas": ["front-end-web"] },
+    { "tech": "HTML", "years": 16, "areas": ["front-end-web"] },
+    { "tech": "CSS", "years": 16, "areas": ["front-end-web"] },
+    { "tech": "React", "years": 4, "areas": ["front-end-web"] },
+    { "tech": "Heroku", "years": 6, "areas": ["back-end-web", "systems"] },
+    { "tech": "Nginx", "years": 11, "areas": ["back-end-web"] },
+    { "tech": "VMWare", "years": 9, "areas": ["systems"] },
+    { "tech": "MySQL", "years": 15, "areas": ["back-end-web"] },
+    { "tech": "PostgreSQL", "years": 6, "areas": ["back-end-web"] },
+    { "tech": "Windows", "years": 8, "areas": ["systems"] },
+    {
+      "tech": "Mentorship",
+      "years": 12,
+      "areas": ["back-end-web", "front-end-web", "systems"]
+    },
+    {
+      "tech": "Management",
+      "years": 15.9,
+      "areas": ["back-end-web", "front-end-web", "systems"]
+    }
   ],
   "community": [
     {

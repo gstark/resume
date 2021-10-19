@@ -8,6 +8,7 @@ import { AboutResume } from './AboutResume'
 import { Skills } from './Skills'
 import { Separator } from './Separator'
 import { Header } from './Header'
+import { SkillArea } from './SkillArea'
 
 export function App() {
   return (
@@ -26,10 +27,13 @@ export function App() {
           Find me on GitHub
         </a>
       </div>
+
       <div className="mx-6 xl:mx-64 mb-20">
         <Header contact={resume.contact} />
 
         <div className="leading-snug">{resume.about}</div>
+
+        <SkillArea />
 
         <Skills showTitle skills={resume.skills} />
 
