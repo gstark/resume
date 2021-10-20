@@ -24,7 +24,7 @@
           "areas": ["front-end-web", "back-end-web"]
         },
         {
-          "text": "Built a Ruby back-end API that processes over five million requests and one million background jobs per day.",
+          "text": "Built a Ruby back-end API that processes millions of requests and background jobs per day.",
           "show": "list",
           "areas": ["back-end-web"]
         },
@@ -193,7 +193,7 @@
           "areas": ["back-end-web"]
         },
         {
-          "text": "Maintained excellent application availability by building infrastructure that processes over <span class=\"italic\">five million requests</span> and <span class=\"italic\">one million background jobs</span> per day.",
+          "text": "Maintained excellent application availability by building infrastructure that processes millions of requests background jobs per day.",
           "show": "list",
           "areas": ["systems"]
         },
