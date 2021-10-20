@@ -29,9 +29,14 @@
           "areas": ["back-end-web"]
         },
         {
-          "text": "Migrated the Ruby on Rails system to a JSON-API-based back-end, improving the marketability of the NEOCAST digital signage management system.",
+          "text": "Migrated a Ruby on Rails system to a JSON-API-based back-end, improving the marketability of the NEOCAST digital signage management system.",
           "show": "list",
           "areas": ["back-end-web"]
+        },
+        {
+          "text": "Built automated test code in Ruby and Cucumber to automate the testing of embedded hardware.",
+          "show": "list",
+          "areas": ["systems", "back-end-web"]
         },
         {
           "text": "Used RSpec to provide full test coverage of the authorization layer in the Rails JSON-API",
@@ -61,7 +66,7 @@
           "areas": ["systems"]
         },
         {
-          "text": "Built Ruby based AWS automation software to deploy and scale a docker-based infrastructure. This lead to a reduction in hosting costs.",
+          "text": "Built Ruby based AWS automation software to deploy and scale a docker-based infrastructure. This led to a reduction in hosting costs.",
           "show": "list",
           "areas": ["back-end-web", "systems"]
         },
@@ -93,7 +98,7 @@
       "visibleOnPrint": true,
       "descriptions": [
         {
-          "text": "Devise and implement an interactive and engaging curriculum for multiple courses.",
+          "text": "Designed and implemented an interactive and engaging curriculum for multiple courses.",
           "show": "list",
           "areas": ["front-end-web", "back-end-web"]
         },
@@ -118,7 +123,7 @@
           "areas": ["front-end-web", "back-end-web"]
         },
         {
-          "text": "Reduced overhead by developing a Ruby on Rails based student management system to effectively handle multiple operations, including enrollment, homework assignment, grading, and student progress reports.",
+          "text": "Reduced overhead by developing a Rails-based student management system to effectively handle multiple operations, including enrollment, homework assignment, grading, and student progress reports.",
           "show": "list",
           "areas": ["front-end-web", "back-end-web"]
         }
@@ -152,7 +157,7 @@
           "areas": ["back-end-web", "front-end-web"]
         },
         {
-          "text": "Built a Ruby on Rails based learning management software to manage student information, assignments, and performance.",
+          "text": "Built a learning management application in Ruby on Rails to manage student information, assignments, and performance.",
           "show": "list",
           "areas": ["back-end-web", "front-end-web"]
         }
@@ -170,7 +175,7 @@
     },
     {
       "companyName": "Real Digital Media",
-      "jobTitle": "VP Product Development & Engineering",
+      "jobTitle": "Senior Software Engineer",
       "startDate": "2005",
       "endDate": "2015",
       "location": "Saint Petersburg, Florida",
