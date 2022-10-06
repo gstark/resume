@@ -11,7 +11,7 @@ export function SkillArea() {
   return (
     <section className="grid grid-cols-12 mt-5 mb-2 print:hidden">
       <p className={cx('font-bold tracking-widest', sectionTitleClassNames)}>
-        <span className="font-bold text-blue-900">Skill Areas (click one)</span>
+        <span className="font-bold text-blue-900">Skill Areas</span>
       </p>
       <article
         className={cx(sectionBodyClassNames, sectionBodyBorderClassNames)}>

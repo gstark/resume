@@ -10,10 +10,82 @@
   "about": "Software engineer with broad experience in Back End Web, Front End Web, DevOps, and Operating Systems who creates, maintains, audits, and improves systems to fulfill clients’ requirements. Proficient in determining requirements, coordinating developer teams, and creating and deploying applications.",
   "experience": [
     {
-      "companyName": "STRATACACHE",
+      "companyName": "STRATACACHE (Real Digital Media division)",
+      "jobTitle": "Principal Software Engineer (Contractor)",
+      "startDate": "Jun 2022",
+      "endDate": "Current",
+      "location": "Saint Petersburg, Florida",
+      "visibleOnWeb": true,
+      "visibleOnPrint": true,
+      "descriptions": [
+        {
+          "text": "Continuing previous role in a contractor capacity.",
+          "show": "list",
+          "areas": ["front-end-web", "back-end-web"]
+        },
+        {
+          "text": "Lowered installation costs of in-store media playing devices by implementing a wifi and mobile based device configuration system in React",
+          "show": "list",
+          "areas": ["front-end-web", "back-end-web"]
+        },
+        {
+          "text": "Achieved first-to-market for ARM based tablet and shelf-edge display devices by porting existing Intel based operating system.",
+          "show": "list",
+          "areas": ["front-end-web", "back-end-web"]
+        },
+        {
+          "text": "Lowered AWS costs through analyzing and right-sizing EC2 and RDS instances.",
+          "show": "list",
+          "areas": ["front-end-web", "back-end-web"]
+        }
+      ]
+    },
+    {
+      "companyName": "Kin Insurance",
+      "jobTitle": "Principal Engineer",
+      "startDate": "Jan 2022",
+      "endDate": "June 2022",
+      "location": "Saint Petersburg, Florida",
+      "visibleOnWeb": true,
+      "visibleOnPrint": true,
+      "descriptions": [
+        {
+          "text": "Contributed to an Event Source architecture for an accounting and billing system",
+          "show": "list",
+          "areas": ["front-end-web", "back-end-web"]
+        },
+        {
+          "text": "Mentored developers at all levels (associate through staff)",
+          "show": "list",
+          "areas": ["front-end-web", "back-end-web"]
+        },
+        {
+          "text": "Reviewed architecture proposals as part of the Architecture Review Board",
+          "show": "list",
+          "areas": ["front-end-web", "back-end-web"]
+        },
+        {
+          "text": "Performed code reviews for pull-requests across the organization",
+          "show": "list",
+          "areas": ["front-end-web", "back-end-web"]
+        },
+        {
+          "text": "Developed libraries and patterns for building internal APIs",
+          "show": "list",
+          "areas": ["front-end-web", "back-end-web"]
+        },
+        {
+          "text": "Contributed to the organizations Tech Vision on behalf of the CTO and VP of Architecture",
+          "show": "list",
+          "areas": ["front-end-web", "back-end-web"]
+        }
+      ]
+    },
+    {
+      "companyName": "STRATACACHE (Real Digital Media division)",
       "jobTitle": "Senior Developer",
       "startDate": "2017",
-      "endDate": "Present",
+      "endDate": "Dec 2021",
       "location": "Saint Petersburg, Florida",
       "visibleOnWeb": true,
       "visibleOnPrint": true,
@@ -92,7 +164,7 @@
       "companyName": "Suncoast Developers Guild",
       "jobTitle": "Senior Instructor",
       "startDate": "2018",
-      "endDate": "Present",
+      "endDate": "Dec 2021",
       "location": "Saint Petersburg, Florida",
       "visibleOnWeb": true,
       "visibleOnPrint": true,
@@ -319,7 +391,7 @@
       "jobTitle": "Owner",
       "startDate": "1999",
       "endDate": "2000",
-      "location": "St Petersburg, Florida",
+      "location": "Saint Petersburg, Florida",
       "visibleOnWeb": true,
       "visibleOnPrint": false,
       "descriptions": [

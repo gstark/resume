@@ -61,7 +61,7 @@ export function Experience({
           <span>
             {jobTitle}, {companyName}, {location}
           </span>
-          <span>
+          <span className="text-right whitespace-nowrap">
             {startDate} - {endDate}
           </span>
         </p>
